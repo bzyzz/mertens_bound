@@ -1,0 +1,7 @@
+python-flint>=0.9.0
+gmpy2>=2.1.5
+numpy>=1.24.0
+scipy>=1.10.0
+mpmath>=1.3.0
+# Optional (required only for regenerating BKZ-reduced .gso lattice bases):
+# fpylll>=0.6.0

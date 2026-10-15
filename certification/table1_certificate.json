@@ -1,0 +1,11 @@
+{
+  "T0": "1300000",
+  "T1": "4300000",
+  "intervals": 6185380,
+  "min_N": "-8.76706559692",
+  "at_nu": 5042995,
+  "M = 14 - min_N": "22.76706560",
+  "StR_Table1_M": "23.05",
+  "elapsed_s_this_run": 3000.3,
+  "note": "elapsed time of the original full computation (24 workers for K2, 16 for Table 1) on 2026-10-15"
+}

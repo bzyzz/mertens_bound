@@ -1,0 +1,596 @@
+CLUSTER #1 |h|=0.92548544 h=+0.92548544 y=3159652581292872192.000000 (x=3392651125843716632661340206, dy=+0.0029000)
+CLUSTER #4 |h|=0.92988129 h=+0.92988129 y=147833460107909312.000000 (x=158734969104497767125381794, dy=+0.0009850)
+CLUSTER #16 |h|=0.93082146 h=+0.93082146 y=3569169626257205760.000000 (x=3832366704662810420053763111, dy=+0.0013150)
+CLUSTER #34 |h|=0.93329407 h=+0.93329407 y=276653841855997024.000000 (x=297054800771065783243525812, dy=-0.0002200)
+CLUSTER #78 |h|=0.93459526 h=+0.93459526 y=2239312555349501440.000000 (x=2404443547687074677116667865, dy=-0.0014850)
+CLUSTER #87 |h|=0.93666852 h=+0.93666852 y=2865015327606215168.000000 (x=3076286783651855161241709234, dy=-0.0001550)
+CLUSTER #55 |h|=0.95589484 h=+0.95589484 y=542618602953921664.000000 (x=582632288472075623046530038, dy=+0.0001445)
+CLUSTER #80 |h|=0.96650606 h=+0.96650606 y=2190449111615369984.000000 (x=2351976824485067006845783780, dy=+0.0005175)
+CLUSTER #89 |h|=0.99570313 h=+0.99570313 y=3484971332733132288.000000 (x=3741959475396584484692770230, dy=-0.0001970)
+[hr_22_M58_P68_hi17_b18_pos.gso (1/16) yc=2.00e18 (1/6)] 2.54 s | new_clusters=110 | total_unique=110 | best=0.99570313
+CLUSTER #125 |h|=0.96646429 h=+0.96646429 y=5597059561551014912.000000 (x=6009796942656426894691267076, dy=+0.0017930)
+[hr_22_M58_P68_hi17_b18_pos.gso (1/16) yc=5.00e18 (2/6)] 2.16 s | new_clusters=88 | total_unique=198 | best=0.99570313
+CLUSTER #235 |h|=0.96790003 h=+0.96790003 y=9175543704587067392.000000 (x=9852165033555034806265163470, dy=-0.0007790)
+[hr_22_M58_P68_hi17_b18_pos.gso (1/16) yc=8.00e18 (3/6)] 2.49 s | new_clusters=97 | total_unique=295 | best=0.99570313
+CLUSTER #326 |h|=0.96276908 h=+0.96276908 y=11185594176726763520.000000 (x=12010440293842373195241227580, dy=-0.0010600)
+[hr_22_M58_P68_hi17_b18_pos.gso (1/16) yc=11.00e18 (4/6)] 2.18 s | new_clusters=78 | total_unique=373 | best=0.99570313
+CLUSTER #429 |h|=0.96653040 h=+0.96653040 y=13550825947555475456.000000 (x=14550088569634743727254926626, dy=-0.0009890)
+[hr_22_M58_P68_hi17_b18_pos.gso (1/16) yc=14.00e18 (5/6)] 2.54 s | new_clusters=91 | total_unique=464 | best=0.99570313
+[hr_22_M58_P68_hi17_b18_pos.gso (1/16) yc=17.00e18 (6/6)] 2.59 s | new_clusters=103 | total_unique=567 | best=0.99570313
+CLUSTER #632 |h|=0.96102314 h=-0.96102314 y=154222634625982496.000000 (x=165595293005387987652571738, dy=-0.0001725)
+[hr_22_M58_P68_hi17_b18_neg.gso (2/16) yc=2.00e18 (1/6)] 2.25 s | new_clusters=109 | total_unique=676 | best=0.99570313
+[hr_22_M58_P68_hi17_b18_neg.gso (2/16) yc=5.00e18 (2/6)] 2.17 s | new_clusters=91 | total_unique=767 | best=0.99570313
+CLUSTER #792 |h|=0.96833848 h=-0.96833848 y=9112915949245867008.000000 (x=9784918993301948598640280955, dy=+0.0002000)
+[hr_22_M58_P68_hi17_b18_neg.gso (2/16) yc=8.00e18 (3/6)] 2.25 s | new_clusters=94 | total_unique=861 | best=0.99570313
+CLUSTER #960 |h|=0.96004108 h=-0.96004108 y=11991242425427730432.000000 (x=12875498513904954690768983704, dy=+0.0014745)
+[hr_22_M58_P68_hi17_b18_neg.gso (2/16) yc=11.00e18 (4/6)] 2.89 s | new_clusters=104 | total_unique=965 | best=0.99570313
+[hr_22_M58_P68_hi17_b18_neg.gso (2/16) yc=14.00e18 (5/6)] 2.36 s | new_clusters=89 | total_unique=1054 | best=0.99570313
+CLUSTER #1111 |h|=0.96303748 h=-0.96303748 y=18266248296458029056.000000 (x=19613234763475736289192882970, dy=-0.0001170)
+[hr_22_M58_P68_hi17_b18_neg.gso (2/16) yc=17.00e18 (6/6)] 2.26 s | new_clusters=104 | total_unique=1158 | best=0.99570313
+Failed to load hr_21_M58_P68_hi14_b18_pos.gso
+Failed to load hr_21_M58_P68_hi14_b18_neg.gso
+Failed to load hr_18_M59_P68_hi18_21_b18_pos.gso
+Failed to load hr_18_M59_P68_hi18_21_b18_neg.gso
+CLUSTER #1173 |h|=0.96123695 h=+0.96123695 y=1168857266781638144.000000 (x=1255050933629770846666777623, dy=-0.0007555)
+[hr_14_M59_P68_hi11_13_b18_pos.gso (7/16) yc=2.00e18 (1/6)] 2.70 s | new_clusters=47 | total_unique=1205 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_pos.gso (7/16) yc=5.00e18 (2/6)] 2.90 s | new_clusters=57 | total_unique=1262 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_pos.gso (7/16) yc=8.00e18 (3/6)] 2.92 s | new_clusters=52 | total_unique=1314 | best=0.99570313
+CLUSTER #1362 |h|=0.96247629 h=+0.96247629 y=12183331341393367040.000000 (x=13081752416904080687534303867, dy=+0.0007040)
+[hr_14_M59_P68_hi11_13_b18_pos.gso (7/16) yc=11.00e18 (4/6)] 3.05 s | new_clusters=56 | total_unique=1370 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_pos.gso (7/16) yc=14.00e18 (5/6)] 2.95 s | new_clusters=54 | total_unique=1424 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_pos.gso (7/16) yc=17.00e18 (6/6)] 3.67 s | new_clusters=72 | total_unique=1496 | best=0.99570313
+CLUSTER #1537 |h|=0.96485640 h=-0.96485640 y=2551747540500292096.000000 (x=2739918058524297744677761959, dy=+0.0018280)
+[hr_14_M59_P68_hi11_13_b18_neg.gso (8/16) yc=2.00e18 (1/6)] 3.20 s | new_clusters=67 | total_unique=1563 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_neg.gso (8/16) yc=5.00e18 (2/6)] 3.71 s | new_clusters=55 | total_unique=1618 | best=0.99570313
+CLUSTER #1623 |h|=0.96757810 h=-0.96757810 y=7122259925632642048.000000 (x=7647468363550896890266142133, dy=+0.0005640)
+[hr_14_M59_P68_hi11_13_b18_neg.gso (8/16) yc=8.00e18 (3/6)] 3.30 s | new_clusters=46 | total_unique=1664 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_neg.gso (8/16) yc=11.00e18 (4/6)] 3.07 s | new_clusters=68 | total_unique=1732 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_neg.gso (8/16) yc=14.00e18 (5/6)] 2.65 s | new_clusters=49 | total_unique=1781 | best=0.99570313
+[hr_14_M59_P68_hi11_13_b18_neg.gso (8/16) yc=17.00e18 (6/6)] 2.61 s | new_clusters=76 | total_unique=1857 | best=0.99570313
+Failed to load hr_12_M59_P68_hi15_b18_pos.gso
+Failed to load hr_12_M59_P68_hi15_b18_neg.gso
+Failed to load hr_11_M59_P68_hi13_b18_pos.gso
+Failed to load hr_11_M59_P68_hi13_b18_neg.gso
+Failed to load hr_07_M59_P68_hi20_b16_pos.gso
+Failed to load hr_07_M59_P68_hi20_b16_neg.gso
+Failed to load hr_01_M60_P68_prefix_b18_pos.gso
+Failed to load hr_01_M60_P68_prefix_b18_neg.gso
+ALL DONE in 65.74 s | nodes=13630001534 (0.21 Gnodes/s) | pruned_at_cut=12605783 | unique_clusters=1857 | best_abs=0.99570313
+CLUSTER #1 |h|=0.87002444 h=-0.87002444 y=1380180770435815680.000000 (x=1481957817897478085959109256, dy=-0.0001500)
+CLUSTER #2 |h|=0.88825744 h=-0.88825744 y=1110245135205042176.000000 (x=1192116636562188595141682847, dy=+0.0006000)
+CLUSTER #4 |h|=0.93021825 h=-0.93021825 y=1252340095848057600.000000 (x=1344689938784228089364770967, dy=-0.0006250)
+CLUSTER #7 |h|=0.97629683 h=-0.97629683 y=2952772774902314496.000000 (x=3170515625181152800535603426, dy=+0.0004180)
+CLUSTER #11 |h|=0.96362597 h=-0.96362597 y=2413907682199821824.000000 (x=2591913637652848948898168319, dy=+0.0018800)
+CLUSTER #31 |h|=0.97510629 h=-0.97510629 y=2652070594469425152.000000 (x=2847639117482364900729058032, dy=+0.0009790)
+CLUSTER #54 |h|=0.97175143 h=-0.97175143 y=513503059217627456.000000 (x=551369711433915314249780289, dy=+0.0010720)
+[hr_00_M60_P68_prefix_neg.gso (1/46) yc=2.00e18 (1/6)] 3.01 s | new_clusters=109 | total_unique=109 | best=0.97629683
+[hr_00_M60_P68_prefix_neg.gso (1/46) yc=5.00e18 (2/6)] 3.36 s | new_clusters=103 | total_unique=212 | best=0.97629683
+[hr_00_M60_P68_prefix_neg.gso (1/46) yc=8.00e18 (3/6)] 2.94 s | new_clusters=113 | total_unique=325 | best=0.97629683
+CLUSTER #356 |h|=0.96062722 h=-0.96062722 y=10966078547326027776.000000 (x=11774737181533119165427978088, dy=+0.0005220)
+CLUSTER #399 |h|=0.96526835 h=-0.96526835 y=11836211697137399808.000000 (x=12709035536934447374867547974, dy=-0.0015845)
+[hr_00_M60_P68_prefix_neg.gso (1/46) yc=11.00e18 (4/6)] 3.07 s | new_clusters=105 | total_unique=430 | best=0.97629683
+CLUSTER #491 |h|=0.96670418 h=-0.96670418 y=15687720771535450112.000000 (x=16844561915631161121314705548, dy=-0.0013635)
+[hr_00_M60_P68_prefix_neg.gso (1/46) yc=14.00e18 (5/6)] 3.35 s | new_clusters=101 | total_unique=531 | best=0.97629683
+[hr_00_M60_P68_prefix_neg.gso (1/46) yc=17.00e18 (6/6)] 3.16 s | new_clusters=134 | total_unique=665 | best=0.97629683
+CLUSTER #681 |h|=0.96799169 h=+0.96799169 y=1204081675096974592.000000 (x=1292872854063600956236070713, dy=+0.0001695)
+[hr_00_M60_P68_prefix_pos.gso (2/46) yc=2.00e18 (1/6)] 3.29 s | new_clusters=133 | total_unique=798 | best=0.97629683
+CLUSTER #813 |h|=0.97194347 h=+0.97194347 y=5847366084475824128.000000 (x=6278561525140809862915864668, dy=+0.0023660)
+[hr_00_M60_P68_prefix_pos.gso (2/46) yc=5.00e18 (2/6)] 3.51 s | new_clusters=133 | total_unique=931 | best=0.97629683
+CLUSTER #989 |h|=0.96098463 h=+0.96098463 y=8590293891139252224.000000 (x=9223757831367918047969643198, dy=-0.0008675)
+[hr_00_M60_P68_prefix_pos.gso (2/46) yc=8.00e18 (3/6)] 3.79 s | new_clusters=133 | total_unique=1064 | best=0.97629683
+[hr_00_M60_P68_prefix_pos.gso (2/46) yc=11.00e18 (4/6)] 3.82 s | new_clusters=126 | total_unique=1190 | best=0.97629683
+[hr_00_M60_P68_prefix_pos.gso (2/46) yc=14.00e18 (5/6)] 4.19 s | new_clusters=120 | total_unique=1310 | best=0.97629683
+CLUSTER #1461 |h|=0.96736238 h=+0.96736238 y=16504492409601579008.000000 (x=17721563784079755471445609346, dy=+0.0017270)
+[hr_00_M60_P68_prefix_pos.gso (2/46) yc=17.00e18 (6/6)] 3.94 s | new_clusters=166 | total_unique=1476 | best=0.97629683
+CLUSTER #1567 |h|=0.96029426 h=-0.96029426 y=1777017532012718336.000000 (x=1908058046103314463896207148, dy=+0.0018595)
+[hr_00_pref_M59_b16_neg.gso (3/46) yc=2.00e18 (1/6)] 2.53 s | new_clusters=118 | total_unique=1594 | best=0.97629683
+[hr_00_pref_M59_b16_neg.gso (3/46) yc=5.00e18 (2/6)] 2.42 s | new_clusters=85 | total_unique=1679 | best=0.97629683
+[hr_00_pref_M59_b16_neg.gso (3/46) yc=8.00e18 (3/6)] 2.39 s | new_clusters=78 | total_unique=1757 | best=0.97629683
+CLUSTER #1763 |h|=0.96039070 h=-0.96039070 y=10995086874523283456.000000 (x=11805884635689089994198015522, dy=+0.0024360)
+CLUSTER #1820 |h|=0.97619386 h=-0.97619386 y=12152672693306533888.000000 (x=13048832944185949679548328316, dy=-0.0031370)
+CLUSTER #1839 |h|=0.96974614 h=-0.96974614 y=12520582519224791040.000000 (x=13443873111734941933856946222, dy=-0.0017440)
+[hr_00_pref_M59_b16_neg.gso (3/46) yc=11.00e18 (4/6)] 3.07 s | new_clusters=86 | total_unique=1843 | best=0.97629683
+[hr_00_pref_M59_b16_neg.gso (3/46) yc=14.00e18 (5/6)] 2.49 s | new_clusters=88 | total_unique=1931 | best=0.97629683
+CLUSTER #1979 |h|=0.96139737 h=-0.96139737 y=16768435387578034176.000000 (x=18004970398684185548265626535, dy=-0.0011195)
+[hr_00_pref_M59_b16_neg.gso (3/46) yc=17.00e18 (6/6)] 2.36 s | new_clusters=127 | total_unique=2058 | best=0.97629683
+[hr_00_pref_M59_b16_pos.gso (4/46) yc=2.00e18 (1/6)] 2.75 s | new_clusters=134 | total_unique=2192 | best=0.97629683
+CLUSTER #2250 |h|=0.98144935 h=+0.98144935 y=3867117295887568384.000000 (x=4152285578908265230752586727, dy=-0.0029825)
+CLUSTER #2303 |h|=0.96077797 h=+0.96077797 y=5021552415113257984.000000 (x=5391850849515314255412146935, dy=-0.0027785)
+[hr_00_pref_M59_b16_pos.gso (4/46) yc=5.00e18 (2/6)] 3.17 s | new_clusters=112 | total_unique=2304 | best=0.98144935
+CLUSTER #2378 |h|=0.96699042 h=+0.96699042 y=7146264750926202880.000000 (x=7673243348446406756150236536, dy=-0.0004645)
+[hr_00_pref_M59_b16_pos.gso (4/46) yc=8.00e18 (3/6)] 2.86 s | new_clusters=114 | total_unique=2418 | best=0.98144935
+[hr_00_pref_M59_b16_pos.gso (4/46) yc=11.00e18 (4/6)] 2.86 s | new_clusters=96 | total_unique=2514 | best=0.98144935
+[hr_00_pref_M59_b16_pos.gso (4/46) yc=14.00e18 (5/6)] 2.79 s | new_clusters=119 | total_unique=2633 | best=0.98144935
+CLUSTER #2690 |h|=0.97537190 h=+0.97537190 y=15996113896361281536.000000 (x=17175696511990709364815638280, dy=+0.0002475)
+CLUSTER #2734 |h|=0.97142145 h=+0.97142145 y=15900040306219501568.000000 (x=17072538280073647049962702343, dy=-0.0005035)
+CLUSTER #2779 |h|=0.98044141 h=+0.98044141 y=18962082468421156864.000000 (x=20360381016480957370270995936, dy=+0.0022725)
+[hr_00_pref_M59_b16_pos.gso (4/46) yc=17.00e18 (6/6)] 3.29 s | new_clusters=150 | total_unique=2783 | best=0.98144935
+[hr_01_pref_M60_b15_neg.gso (5/46) yc=2.00e18 (1/6)] 3.17 s | new_clusters=102 | total_unique=2885 | best=0.98144935
+CLUSTER #2951 |h|=0.97049248 h=-0.97049248 y=4551662716799440384.000000 (x=4887310627769026638071040772, dy=+0.0007820)
+[hr_01_pref_M60_b15_neg.gso (5/46) yc=5.00e18 (2/6)] 3.32 s | new_clusters=77 | total_unique=2962 | best=0.98144935
+CLUSTER #3031 |h|=0.96031266 h=-0.96031266 y=8343302988822795264.000000 (x=8958553369403240233388833992, dy=+0.0004535)
+CLUSTER #3057 |h|=0.96240960 h=-0.96240960 y=8721610370922646528.000000 (x=9364757827891798685278546353, dy=+0.0009455)
+[hr_01_pref_M60_b15_neg.gso (5/46) yc=8.00e18 (3/6)] 3.98 s | new_clusters=95 | total_unique=3057 | best=0.98144935
+[hr_01_pref_M60_b15_neg.gso (5/46) yc=11.00e18 (4/6)] 3.37 s | new_clusters=92 | total_unique=3149 | best=0.98144935
+[hr_01_pref_M60_b15_neg.gso (5/46) yc=14.00e18 (5/6)] 3.42 s | new_clusters=100 | total_unique=3249 | best=0.98144935
+[hr_01_pref_M60_b15_neg.gso (5/46) yc=17.00e18 (6/6)] 3.24 s | new_clusters=117 | total_unique=3366 | best=0.98144935
+[hr_01_pref_M60_b15_pos.gso (6/46) yc=2.00e18 (1/6)] 2.79 s | new_clusters=116 | total_unique=3482 | best=0.98144935
+CLUSTER #3558 |h|=0.96109060 h=+0.96109060 y=4889197702336796672.000000 (x=5249736058803721580728056703, dy=+0.0007705)
+[hr_01_pref_M60_b15_pos.gso (6/46) yc=5.00e18 (2/6)] 3.46 s | new_clusters=98 | total_unique=3580 | best=0.98144935
+CLUSTER #3596 |h|=0.96269183 h=+0.96269183 y=8056754240388697088.000000 (x=8650873993594694087961401682, dy=-0.0010030)
+[hr_01_pref_M60_b15_pos.gso (6/46) yc=8.00e18 (3/6)] 3.27 s | new_clusters=81 | total_unique=3661 | best=0.98144935
+[hr_01_pref_M60_b15_pos.gso (6/46) yc=11.00e18 (4/6)] 3.13 s | new_clusters=76 | total_unique=3737 | best=0.98144935
+[hr_01_pref_M60_b15_pos.gso (6/46) yc=14.00e18 (5/6)] 3.10 s | new_clusters=100 | total_unique=3837 | best=0.98144935
+CLUSTER #3895 |h|=0.96035228 h=+0.96035228 y=17016860191974516736.000000 (x=18271714501283708131029158198, dy=-0.0043770)
+[hr_01_pref_M60_b15_pos.gso (6/46) yc=17.00e18 (6/6)] 3.08 s | new_clusters=123 | total_unique=3960 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_neg.gso (7/46) yc=2.00e18 (1/6)] 2.40 s | new_clusters=41 | total_unique=4001 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_neg.gso (7/46) yc=5.00e18 (2/6)] 2.36 s | new_clusters=47 | total_unique=4048 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_neg.gso (7/46) yc=8.00e18 (3/6)] 2.25 s | new_clusters=40 | total_unique=4088 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_neg.gso (7/46) yc=11.00e18 (4/6)] 2.62 s | new_clusters=48 | total_unique=4136 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_neg.gso (7/46) yc=14.00e18 (5/6)] 2.40 s | new_clusters=40 | total_unique=4176 | best=0.98144935
+CLUSTER #4207 |h|=0.96315401 h=-0.96315401 y=19297699734016036864.000000 (x=20720747311406693727878033308, dy=+0.0012705)
+[hr_02_M59_P68_hi17_b18_neg.gso (7/46) yc=17.00e18 (6/6)] 2.33 s | new_clusters=57 | total_unique=4233 | best=0.98144935
+CLUSTER #4245 |h|=0.96019434 h=+0.96019434 y=417031590415648256.000000 (x=447784260558519099494898743, dy=+0.0008190)
+CLUSTER #4255 |h|=0.96210986 h=+0.96210986 y=3430172833842684416.000000 (x=3683120035245492691296150331, dy=+0.0014455)
+CLUSTER #4294 |h|=0.96025329 h=+0.96025329 y=2906159319449623040.000000 (x=3120464808500436658146683087, dy=-0.0016795)
+[hr_02_M59_P68_hi17_b18_pos.gso (8/46) yc=2.00e18 (1/6)] 2.75 s | new_clusters=67 | total_unique=4300 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_pos.gso (8/46) yc=5.00e18 (2/6)] 2.71 s | new_clusters=52 | total_unique=4352 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_pos.gso (8/46) yc=8.00e18 (3/6)] 2.49 s | new_clusters=51 | total_unique=4403 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_pos.gso (8/46) yc=11.00e18 (4/6)] 2.50 s | new_clusters=43 | total_unique=4446 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_pos.gso (8/46) yc=14.00e18 (5/6)] 2.55 s | new_clusters=33 | total_unique=4479 | best=0.98144935
+[hr_02_M59_P68_hi17_b18_pos.gso (8/46) yc=17.00e18 (6/6)] 2.56 s | new_clusters=56 | total_unique=4535 | best=0.98144935
+CLUSTER #4569 |h|=0.96512923 h=-0.96512923 y=2890412652790422016.000000 (x=3103556953919866459290307072, dy=+0.0017495)
+CLUSTER #4574 |h|=0.96283126 h=-0.96283126 y=1534250201969041664.000000 (x=1647388610334607093482878827, dy=-0.0000375)
+[hr_03_M60_P67_hi16_b16_neg.gso (9/46) yc=2.00e18 (1/6)] 3.46 s | new_clusters=63 | total_unique=4598 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_neg.gso (9/46) yc=5.00e18 (2/6)] 3.55 s | new_clusters=45 | total_unique=4643 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_neg.gso (9/46) yc=8.00e18 (3/6)] 3.63 s | new_clusters=49 | total_unique=4692 | best=0.98144935
+CLUSTER #4703 |h|=0.96520393 h=-0.96520393 y=10652868636670318592.000000 (x=11438430600770780088494673189, dy=-0.0014530)
+[hr_03_M60_P67_hi16_b16_neg.gso (9/46) yc=11.00e18 (4/6)] 3.60 s | new_clusters=35 | total_unique=4727 | best=0.98144935
+CLUSTER #4760 |h|=0.96531088 h=-0.96531088 y=15528632561983260672.000000 (x=16673742251329700357615521920, dy=+0.0002750)
+[hr_03_M60_P67_hi16_b16_neg.gso (9/46) yc=14.00e18 (5/6)] 3.51 s | new_clusters=49 | total_unique=4776 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_neg.gso (9/46) yc=17.00e18 (6/6)] 3.33 s | new_clusters=51 | total_unique=4827 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_pos.gso (10/46) yc=2.00e18 (1/6)] 3.46 s | new_clusters=45 | total_unique=4872 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_pos.gso (10/46) yc=5.00e18 (2/6)] 3.24 s | new_clusters=40 | total_unique=4912 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_pos.gso (10/46) yc=8.00e18 (3/6)] 3.20 s | new_clusters=44 | total_unique=4956 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_pos.gso (10/46) yc=11.00e18 (4/6)] 3.22 s | new_clusters=44 | total_unique=5000 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_pos.gso (10/46) yc=14.00e18 (5/6)] 3.20 s | new_clusters=36 | total_unique=5036 | best=0.98144935
+[hr_03_M60_P67_hi16_b16_pos.gso (10/46) yc=17.00e18 (6/6)] 3.23 s | new_clusters=57 | total_unique=5093 | best=0.98144935
+CLUSTER #5101 |h|=0.96102313 h=-0.96102313 y=154222634625982496.000000 (x=165595293005387987651356897, dy=+0.0009590)
+[hr_04_M60_P68_hi18_20_b18_neg.gso (11/46) yc=2.00e18 (1/6)] 2.69 s | new_clusters=72 | total_unique=5165 | best=0.98144935
+[hr_04_M60_P68_hi18_20_b18_neg.gso (11/46) yc=5.00e18 (2/6)] 2.81 s | new_clusters=70 | total_unique=5235 | best=0.98144935
+[hr_04_M60_P68_hi18_20_b18_neg.gso (11/46) yc=8.00e18 (3/6)] 2.47 s | new_clusters=55 | total_unique=5290 | best=0.98144935
+CLUSTER #5333 |h|=0.97153544 h=-0.97153544 y=11958132747692978176.000000 (x=12839947268141990359026295678, dy=-0.0001690)
+[hr_04_M60_P68_hi18_20_b18_neg.gso (11/46) yc=11.00e18 (4/6)] 2.47 s | new_clusters=63 | total_unique=5353 | best=0.98144935
+[hr_04_M60_P68_hi18_20_b18_neg.gso (11/46) yc=14.00e18 (5/6)] 2.58 s | new_clusters=61 | total_unique=5414 | best=0.98144935
+CLUSTER #5439 |h|=0.98415210 h=-0.98415210 y=18390518516490305536.000000 (x=19746668896202074550442243941, dy=+0.0006775)
+[hr_04_M60_P68_hi18_20_b18_neg.gso (11/46) yc=17.00e18 (6/6)] 2.65 s | new_clusters=94 | total_unique=5508 | best=0.98415210
+CLUSTER #5540 |h|=0.97491239 h=+0.97491239 y=2023386480728023296.000000 (x=2172594690473848699996941954, dy=-0.0009550)
+CLUSTER #5552 |h|=0.96650605 h=+0.96650605 y=2190449111615369984.000000 (x=2351976824485067006846844663, dy=-0.0004705)
+[hr_04_M60_P68_hi18_20_b18_pos.gso (12/46) yc=2.00e18 (1/6)] 2.76 s | new_clusters=78 | total_unique=5586 | best=0.98415210
+CLUSTER #5600 |h|=0.98637786 h=+0.98637786 y=5758494592264052736.000000 (x=6183136486991739835433902593, dy=+0.0000715)
+[hr_04_M60_P68_hi18_20_b18_pos.gso (12/46) yc=5.00e18 (2/6)] 2.72 s | new_clusters=54 | total_unique=5640 | best=0.98637786
+[hr_04_M60_P68_hi18_20_b18_pos.gso (12/46) yc=8.00e18 (3/6)] 2.65 s | new_clusters=83 | total_unique=5723 | best=0.98637786
+[hr_04_M60_P68_hi18_20_b18_pos.gso (12/46) yc=11.00e18 (4/6)] 2.58 s | new_clusters=70 | total_unique=5793 | best=0.98637786
+CLUSTER #5827 |h|=0.97937582 h=+0.97937582 y=15526609124812464128.000000 (x=16671569602211179867616035293, dy=+0.0013145)
+[hr_04_M60_P68_hi18_20_b18_pos.gso (12/46) yc=14.00e18 (5/6)] 2.62 s | new_clusters=65 | total_unique=5858 | best=0.98637786
+[hr_04_M60_P68_hi18_20_b18_pos.gso (12/46) yc=17.00e18 (6/6)] 2.48 s | new_clusters=79 | total_unique=5937 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_neg.gso (13/46) yc=2.00e18 (1/6)] 2.55 s | new_clusters=84 | total_unique=6021 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_neg.gso (13/46) yc=5.00e18 (2/6)] 2.61 s | new_clusters=47 | total_unique=6068 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_neg.gso (13/46) yc=8.00e18 (3/6)] 2.60 s | new_clusters=56 | total_unique=6124 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_neg.gso (13/46) yc=11.00e18 (4/6)] 2.52 s | new_clusters=65 | total_unique=6189 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_neg.gso (13/46) yc=14.00e18 (5/6)] 2.44 s | new_clusters=61 | total_unique=6250 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_neg.gso (13/46) yc=17.00e18 (6/6)] 2.33 s | new_clusters=71 | total_unique=6321 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_pos.gso (14/46) yc=2.00e18 (1/6)] 2.31 s | new_clusters=58 | total_unique=6379 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_pos.gso (14/46) yc=5.00e18 (2/6)] 2.29 s | new_clusters=47 | total_unique=6426 | best=0.98637786
+CLUSTER #6463 |h|=0.97752246 h=+0.97752246 y=6720110419968566272.000000 (x=7215663619818454847442365047, dy=-0.0019590)
+[hr_05_M59_P68_hi15_24_b18_pos.gso (14/46) yc=8.00e18 (3/6)] 2.54 s | new_clusters=54 | total_unique=6480 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_pos.gso (14/46) yc=11.00e18 (4/6)] 2.44 s | new_clusters=53 | total_unique=6533 | best=0.98637786
+[hr_05_M59_P68_hi15_24_b18_pos.gso (14/46) yc=14.00e18 (5/6)] 2.46 s | new_clusters=56 | total_unique=6589 | best=0.98637786
+CLUSTER #6649 |h|=0.96247183 h=+0.96247183 y=17872137321586536448.000000 (x=19190061326458801660080458492, dy=-0.0024325)
+[hr_05_M59_P68_hi15_24_b18_pos.gso (14/46) yc=17.00e18 (6/6)] 2.96 s | new_clusters=65 | total_unique=6654 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_neg.gso (15/46) yc=2.00e18 (1/6)] 3.46 s | new_clusters=124 | total_unique=6778 | best=0.98637786
+CLUSTER #6793 |h|=0.96407596 h=-0.96407596 y=4231317327692747264.000000 (x=4543342385359616263448570774, dy=-0.0004760)
+CLUSTER #6805 |h|=0.96129048 h=-0.96129048 y=6158622775374322688.000000 (x=6612770852158367474050463500, dy=-0.0015145)
+[hr_06_M60_P68_hi19_b16_neg.gso (15/46) yc=5.00e18 (2/6)] 2.84 s | new_clusters=113 | total_unique=6891 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_neg.gso (15/46) yc=8.00e18 (3/6)] 2.90 s | new_clusters=103 | total_unique=6994 | best=0.98637786
+CLUSTER #7097 |h|=0.96672099 h=-0.96672099 y=11357929307747145728.000000 (x=12195483731763476915992992660, dy=+0.0000935)
+[hr_06_M60_P68_hi19_b16_neg.gso (15/46) yc=11.00e18 (4/6)] 3.34 s | new_clusters=114 | total_unique=7108 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_neg.gso (15/46) yc=14.00e18 (5/6)] 2.95 s | new_clusters=112 | total_unique=7220 | best=0.98637786
+CLUSTER #7320 |h|=0.97851013 h=-0.97851013 y=17121545096686462976.000000 (x=18384119061814379800387775485, dy=+0.0011435)
+[hr_06_M60_P68_hi19_b16_neg.gso (15/46) yc=17.00e18 (6/6)] 3.16 s | new_clusters=126 | total_unique=7346 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_pos.gso (16/46) yc=2.00e18 (1/6)] 3.47 s | new_clusters=118 | total_unique=7464 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_pos.gso (16/46) yc=5.00e18 (2/6)] 2.72 s | new_clusters=90 | total_unique=7554 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_pos.gso (16/46) yc=8.00e18 (3/6)] 2.62 s | new_clusters=117 | total_unique=7671 | best=0.98637786
+CLUSTER #7700 |h|=0.96178213 h=+0.96178213 y=9322890106373349376.000000 (x=10010377027768874776104254258, dy=-0.0031910)
+[hr_06_M60_P68_hi19_b16_pos.gso (16/46) yc=11.00e18 (4/6)] 3.36 s | new_clusters=110 | total_unique=7781 | best=0.98637786
+CLUSTER #7829 |h|=0.98167588 h=+0.98167588 y=15555999520549330944.000000 (x=16703127299337764012159951310, dy=-0.0006830)
+[hr_06_M60_P68_hi19_b16_pos.gso (16/46) yc=14.00e18 (5/6)] 2.90 s | new_clusters=86 | total_unique=7867 | best=0.98637786
+[hr_06_M60_P68_hi19_b16_pos.gso (16/46) yc=17.00e18 (6/6)] 2.94 s | new_clusters=126 | total_unique=7993 | best=0.98637786
+CLUSTER #8023 |h|=0.96485638 h=-0.96485638 y=2551747540500292096.000000 (x=2739918058524297744680158771, dy=-0.0004040)
+CLUSTER #8027 |h|=0.96406544 h=-0.96406544 y=1158462198567387392.000000 (x=1243889314124796777679021823, dy=+0.0006875)
+CLUSTER #8029 |h|=0.96797706 h=-0.96797706 y=4733856227770563.000000 (x=5082939420560123476662022, dy=-0.0004400)
+[hr_07_M58_P68_hi21_b18_neg.gso (17/46) yc=2.00e18 (1/6)] 1.64 s | new_clusters=64 | total_unique=8057 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_neg.gso (17/46) yc=5.00e18 (2/6)] 1.46 s | new_clusters=56 | total_unique=8113 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_neg.gso (17/46) yc=8.00e18 (3/6)] 1.50 s | new_clusters=38 | total_unique=8151 | best=0.98637786
+CLUSTER #8168 |h|=0.96558202 h=-0.96558202 y=10314950460880015360.000000 (x=11075593722334947679822256693, dy=+0.0026650)
+CLUSTER #8185 |h|=0.96870667 h=-0.96870667 y=10978098741534283776.000000 (x=11787643766787126529895398277, dy=-0.0000470)
+[hr_07_M58_P68_hi21_b18_neg.gso (17/46) yc=11.00e18 (4/6)] 1.89 s | new_clusters=34 | total_unique=8185 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_neg.gso (17/46) yc=14.00e18 (5/6)] 1.51 s | new_clusters=41 | total_unique=8226 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_neg.gso (17/46) yc=17.00e18 (6/6)] 1.70 s | new_clusters=66 | total_unique=8292 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_pos.gso (18/46) yc=2.00e18 (1/6)] 1.90 s | new_clusters=55 | total_unique=8347 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_pos.gso (18/46) yc=5.00e18 (2/6)] 1.41 s | new_clusters=42 | total_unique=8389 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_pos.gso (18/46) yc=8.00e18 (3/6)] 1.40 s | new_clusters=49 | total_unique=8438 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_pos.gso (18/46) yc=11.00e18 (4/6)] 1.47 s | new_clusters=37 | total_unique=8475 | best=0.98637786
+CLUSTER #8482 |h|=0.97984464 h=+0.97984464 y=15097708992887271424.000000 (x=16211041592243980960632820997, dy=-0.0016895)
+[hr_07_M58_P68_hi21_b18_pos.gso (18/46) yc=14.00e18 (5/6)] 1.46 s | new_clusters=36 | total_unique=8511 | best=0.98637786
+[hr_07_M58_P68_hi21_b18_pos.gso (18/46) yc=17.00e18 (6/6)] 1.44 s | new_clusters=47 | total_unique=8558 | best=0.98637786
+[hr_08_M59_P67_hi20_b18_neg.gso (19/46) yc=2.00e18 (1/6)] 1.77 s | new_clusters=65 | total_unique=8623 | best=0.98637786
+CLUSTER #8626 |h|=0.96448441 h=-0.96448441 y=5002593992835682304.000000 (x=5371494398598828794699341376, dy=+0.0003855)
+CLUSTER #8654 |h|=0.96324614 h=-0.96324614 y=6420151192277695488.000000 (x=6893584851552027669625670932, dy=+0.0016010)
+[hr_08_M59_P67_hi20_b18_neg.gso (19/46) yc=5.00e18 (2/6)] 1.92 s | new_clusters=45 | total_unique=8668 | best=0.98637786
+CLUSTER #8678 |h|=0.97498624 h=-0.97498624 y=8895437864289867776.000000 (x=9551403677681267361151765694, dy=-0.0003920)
+[hr_08_M59_P67_hi20_b18_neg.gso (19/46) yc=8.00e18 (3/6)] 1.99 s | new_clusters=61 | total_unique=8729 | best=0.98637786
+CLUSTER #8737 |h|=0.96932857 h=-0.96932857 y=12319630032391704576.000000 (x=13228102021985446933610087709, dy=-0.0002675)
+[hr_08_M59_P67_hi20_b18_neg.gso (19/46) yc=11.00e18 (4/6)] 2.19 s | new_clusters=60 | total_unique=8789 | best=0.98637786
+[hr_08_M59_P67_hi20_b18_neg.gso (19/46) yc=14.00e18 (5/6)] 2.03 s | new_clusters=48 | total_unique=8837 | best=0.98637786
+[hr_08_M59_P67_hi20_b18_neg.gso (19/46) yc=17.00e18 (6/6)] 2.02 s | new_clusters=66 | total_unique=8903 | best=0.98637786
+CLUSTER #8932 |h|=0.96567350 h=+0.96567350 y=2609904678560032768.000000 (x=2802363810023183104162759686, dy=-0.0009445)
+[hr_08_M59_P67_hi20_b18_pos.gso (20/46) yc=2.00e18 (1/6)] 2.43 s | new_clusters=53 | total_unique=8956 | best=0.98637786
+CLUSTER #8976 |h|=0.97280125 h=+0.97280125 y=5506741001786680320.000000 (x=5912818127554017377016901964, dy=+0.0017815)
+[hr_08_M59_P67_hi20_b18_pos.gso (20/46) yc=5.00e18 (2/6)] 2.38 s | new_clusters=66 | total_unique=9022 | best=0.98637786
+CLUSTER #9034 |h|=0.97206057 h=+0.97206057 y=8307205047332336640.000000 (x=8919793499864629770563162988, dy=+0.0037300)
+[hr_08_M59_P67_hi20_b18_pos.gso (20/46) yc=8.00e18 (3/6)] 2.37 s | new_clusters=53 | total_unique=9075 | best=0.98637786
+[hr_08_M59_P67_hi20_b18_pos.gso (20/46) yc=11.00e18 (4/6)] 2.37 s | new_clusters=37 | total_unique=9112 | best=0.98637786
+[hr_08_M59_P67_hi20_b18_pos.gso (20/46) yc=14.00e18 (5/6)] 2.33 s | new_clusters=51 | total_unique=9163 | best=0.98637786
+[hr_08_M59_P67_hi20_b18_pos.gso (20/46) yc=17.00e18 (6/6)] 2.47 s | new_clusters=76 | total_unique=9239 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_neg.gso (21/46) yc=2.00e18 (1/6)] 2.34 s | new_clusters=48 | total_unique=9287 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_neg.gso (21/46) yc=5.00e18 (2/6)] 2.36 s | new_clusters=30 | total_unique=9317 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_neg.gso (21/46) yc=8.00e18 (3/6)] 2.28 s | new_clusters=46 | total_unique=9363 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_neg.gso (21/46) yc=11.00e18 (4/6)] 2.29 s | new_clusters=45 | total_unique=9408 | best=0.98637786
+CLUSTER #9441 |h|=0.96564721 h=-0.96564721 y=15416970075443640320.000000 (x=16553845569360271423859948331, dy=+0.0041050)
+[hr_09_M59_P68_hi10_17_b18_neg.gso (21/46) yc=14.00e18 (5/6)] 2.58 s | new_clusters=38 | total_unique=9446 | best=0.98637786
+CLUSTER #9461 |h|=0.96182046 h=-0.96182046 y=16599421917283444736.000000 (x=17823493566809503178025702949, dy=-0.0001000)
+[hr_09_M59_P68_hi10_17_b18_neg.gso (21/46) yc=17.00e18 (6/6)] 2.40 s | new_clusters=34 | total_unique=9480 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_pos.gso (22/46) yc=2.00e18 (1/6)] 1.91 s | new_clusters=38 | total_unique=9518 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_pos.gso (22/46) yc=5.00e18 (2/6)] 1.90 s | new_clusters=31 | total_unique=9549 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_pos.gso (22/46) yc=8.00e18 (3/6)] 1.89 s | new_clusters=29 | total_unique=9578 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_pos.gso (22/46) yc=11.00e18 (4/6)] 1.91 s | new_clusters=22 | total_unique=9600 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_pos.gso (22/46) yc=14.00e18 (5/6)] 2.00 s | new_clusters=25 | total_unique=9625 | best=0.98637786
+[hr_09_M59_P68_hi10_17_b18_pos.gso (22/46) yc=17.00e18 (6/6)] 2.07 s | new_clusters=42 | total_unique=9667 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_neg.gso (23/46) yc=2.00e18 (1/6)] 3.00 s | new_clusters=40 | total_unique=9707 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_neg.gso (23/46) yc=5.00e18 (2/6)] 2.85 s | new_clusters=45 | total_unique=9752 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_neg.gso (23/46) yc=8.00e18 (3/6)] 2.99 s | new_clusters=51 | total_unique=9803 | best=0.98637786
+CLUSTER #9812 |h|=0.96150920 h=-0.96150920 y=9722044977711624192.000000 (x=10438966307378119396119905851, dy=+0.0004700)
+[hr_10_M60_P68_hi12_b14_neg.gso (23/46) yc=11.00e18 (4/6)] 3.01 s | new_clusters=41 | total_unique=9844 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_neg.gso (23/46) yc=14.00e18 (5/6)] 2.96 s | new_clusters=35 | total_unique=9879 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_neg.gso (23/46) yc=17.00e18 (6/6)] 3.35 s | new_clusters=43 | total_unique=9922 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_pos.gso (24/46) yc=2.00e18 (1/6)] 2.41 s | new_clusters=39 | total_unique=9961 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_pos.gso (24/46) yc=5.00e18 (2/6)] 2.43 s | new_clusters=20 | total_unique=9981 | best=0.98637786
+CLUSTER #9992 |h|=0.96359081 h=+0.96359081 y=7126585355912929280.000000 (x=7652112758949637400489068988, dy=+0.0006700)
+[hr_10_M60_P68_hi12_b14_pos.gso (24/46) yc=8.00e18 (3/6)] 2.59 s | new_clusters=26 | total_unique=10007 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_pos.gso (24/46) yc=11.00e18 (4/6)] 2.57 s | new_clusters=26 | total_unique=10033 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_pos.gso (24/46) yc=14.00e18 (5/6)] 2.65 s | new_clusters=26 | total_unique=10059 | best=0.98637786
+[hr_10_M60_P68_hi12_b14_pos.gso (24/46) yc=17.00e18 (6/6)] 2.67 s | new_clusters=32 | total_unique=10091 | best=0.98637786
+[hr_11_M59_P68_hi15_23_b18_neg.gso (25/46) yc=2.00e18 (1/6)] 2.42 s | new_clusters=50 | total_unique=10141 | best=0.98637786
+[hr_11_M59_P68_hi15_23_b18_neg.gso (25/46) yc=5.00e18 (2/6)] 2.10 s | new_clusters=29 | total_unique=10170 | best=0.98637786
+[hr_11_M59_P68_hi15_23_b18_neg.gso (25/46) yc=8.00e18 (3/6)] 1.99 s | new_clusters=35 | total_unique=10205 | best=0.98637786
+CLUSTER #10228 |h|=0.98654243 h=-0.98654243 y=10273987718077446144.000000 (x=11031610312162075302218042027, dy=+0.0017825)
+[hr_11_M59_P68_hi15_23_b18_neg.gso (25/46) yc=11.00e18 (4/6)] 2.10 s | new_clusters=29 | total_unique=10234 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_neg.gso (25/46) yc=14.00e18 (5/6)] 1.93 s | new_clusters=42 | total_unique=10276 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_neg.gso (25/46) yc=17.00e18 (6/6)] 1.98 s | new_clusters=47 | total_unique=10323 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_pos.gso (26/46) yc=2.00e18 (1/6)] 2.40 s | new_clusters=41 | total_unique=10364 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_pos.gso (26/46) yc=5.00e18 (2/6)] 2.43 s | new_clusters=52 | total_unique=10416 | best=0.98654243
+CLUSTER #10426 |h|=0.97173112 h=+0.97173112 y=7663323299022516224.000000 (x=8228430736994134522393720691, dy=-0.0001865)
+[hr_11_M59_P68_hi15_23_b18_pos.gso (26/46) yc=8.00e18 (3/6)] 2.46 s | new_clusters=43 | total_unique=10459 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_pos.gso (26/46) yc=11.00e18 (4/6)] 2.39 s | new_clusters=40 | total_unique=10499 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_pos.gso (26/46) yc=14.00e18 (5/6)] 2.41 s | new_clusters=46 | total_unique=10545 | best=0.98654243
+[hr_11_M59_P68_hi15_23_b18_pos.gso (26/46) yc=17.00e18 (6/6)] 2.38 s | new_clusters=57 | total_unique=10602 | best=0.98654243
+CLUSTER #10634 |h|=0.96543293 h=-0.96543293 y=1759921313548796672.000000 (x=1889701121306360812952914416, dy=-0.0013265)
+[hr_12_M60_P67_hi22_25_b18_neg.gso (27/46) yc=2.00e18 (1/6)] 2.27 s | new_clusters=48 | total_unique=10650 | best=0.98654243
+[hr_12_M60_P67_hi22_25_b18_neg.gso (27/46) yc=5.00e18 (2/6)] 2.30 s | new_clusters=39 | total_unique=10689 | best=0.98654243
+[hr_12_M60_P67_hi22_25_b18_neg.gso (27/46) yc=8.00e18 (3/6)] 2.25 s | new_clusters=48 | total_unique=10737 | best=0.98654243
+[hr_12_M60_P67_hi22_25_b18_neg.gso (27/46) yc=11.00e18 (4/6)] 2.24 s | new_clusters=37 | total_unique=10774 | best=0.98654243
+[hr_12_M60_P67_hi22_25_b18_neg.gso (27/46) yc=14.00e18 (5/6)] 2.77 s | new_clusters=50 | total_unique=10824 | best=0.98654243
+[hr_12_M60_P67_hi22_25_b18_neg.gso (27/46) yc=17.00e18 (6/6)] 2.21 s | new_clusters=53 | total_unique=10877 | best=0.98654243
+[hr_12_M60_P67_hi22_25_b18_pos.gso (28/46) yc=2.00e18 (1/6)] 2.61 s | new_clusters=58 | total_unique=10935 | best=0.98654243
+CLUSTER #10947 |h|=0.96831828 h=+0.96831828 y=5262391400744811520.000000 (x=5650449741237648336015617472, dy=-0.0004745)
+CLUSTER #10964 |h|=0.96560285 h=+0.96560285 y=3725758053501147136.000000 (x=4000502248149011384540227592, dy=+0.0017865)
+[hr_12_M60_P67_hi22_25_b18_pos.gso (28/46) yc=5.00e18 (2/6)] 2.69 s | new_clusters=49 | total_unique=10984 | best=0.98654243
+CLUSTER #10993 |h|=0.98718917 h=+0.98718917 y=8698036477546876928.000000 (x=9339445552619718715976975732, dy=+0.0010555)
+[hr_12_M60_P67_hi22_25_b18_pos.gso (28/46) yc=8.00e18 (3/6)] 2.62 s | new_clusters=37 | total_unique=11021 | best=0.98718917
+[hr_12_M60_P67_hi22_25_b18_pos.gso (28/46) yc=11.00e18 (4/6)] 2.58 s | new_clusters=52 | total_unique=11073 | best=0.98718917
+[hr_12_M60_P67_hi22_25_b18_pos.gso (28/46) yc=14.00e18 (5/6)] 2.59 s | new_clusters=56 | total_unique=11129 | best=0.98718917
+[hr_12_M60_P67_hi22_25_b18_pos.gso (28/46) yc=17.00e18 (6/6)] 2.65 s | new_clusters=55 | total_unique=11184 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_neg.gso (29/46) yc=2.00e18 (1/6)] 2.72 s | new_clusters=28 | total_unique=11212 | best=0.98718917
+CLUSTER #11236 |h|=0.96966568 h=-0.96966568 y=4459731431191721472.000000 (x=4788600161477929725657711359, dy=+0.0004815)
+[hr_13_M60_P68_hi16_b14_neg.gso (29/46) yc=5.00e18 (2/6)] 2.76 s | new_clusters=30 | total_unique=11242 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_neg.gso (29/46) yc=8.00e18 (3/6)] 2.76 s | new_clusters=31 | total_unique=11273 | best=0.98718917
+CLUSTER #11283 |h|=0.96849268 h=-0.96849268 y=10082250837041899520.000000 (x=10825734403790895034095056110, dy=-0.0040045)
+[hr_13_M60_P68_hi16_b14_neg.gso (29/46) yc=11.00e18 (4/6)] 2.76 s | new_clusters=28 | total_unique=11301 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_neg.gso (29/46) yc=14.00e18 (5/6)] 2.69 s | new_clusters=43 | total_unique=11344 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_neg.gso (29/46) yc=17.00e18 (6/6)] 2.76 s | new_clusters=47 | total_unique=11391 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_pos.gso (30/46) yc=2.00e18 (1/6)] 3.09 s | new_clusters=34 | total_unique=11425 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_pos.gso (30/46) yc=5.00e18 (2/6)] 3.11 s | new_clusters=37 | total_unique=11462 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_pos.gso (30/46) yc=8.00e18 (3/6)] 2.98 s | new_clusters=29 | total_unique=11491 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_pos.gso (30/46) yc=11.00e18 (4/6)] 2.98 s | new_clusters=18 | total_unique=11509 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_pos.gso (30/46) yc=14.00e18 (5/6)] 2.98 s | new_clusters=29 | total_unique=11538 | best=0.98718917
+[hr_13_M60_P68_hi16_b14_pos.gso (30/46) yc=17.00e18 (6/6)] 3.41 s | new_clusters=34 | total_unique=11572 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_neg.gso (31/46) yc=2.00e18 (1/6)] 1.38 s | new_clusters=29 | total_unique=11601 | best=0.98718917
+CLUSTER #11612 |h|=0.97448590 h=-0.97448590 y=5922821734825798656.000000 (x=6359581412778696973035088701, dy=-0.0042950)
+[hr_15_M58_P68_hi12_24_b18_neg.gso (31/46) yc=5.00e18 (2/6)] 1.40 s | new_clusters=49 | total_unique=11650 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_neg.gso (31/46) yc=8.00e18 (3/6)] 1.38 s | new_clusters=22 | total_unique=11672 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_neg.gso (31/46) yc=11.00e18 (4/6)] 1.44 s | new_clusters=23 | total_unique=11695 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_neg.gso (31/46) yc=14.00e18 (5/6)] 1.42 s | new_clusters=28 | total_unique=11723 | best=0.98718917
+CLUSTER #11726 |h|=0.96295492 h=-0.96295492 y=18245101627319076864.000000 (x=19590528700382953769466610394, dy=+0.0009290)
+[hr_15_M58_P68_hi12_24_b18_neg.gso (31/46) yc=17.00e18 (6/6)] 1.57 s | new_clusters=33 | total_unique=11756 | best=0.98718917
+CLUSTER #11768 |h|=0.97027371 h=+0.97027371 y=2265109926259257344.000000 (x=2432143263782120417560824710, dy=-0.0016330)
+[hr_15_M58_P68_hi12_24_b18_pos.gso (32/46) yc=2.00e18 (1/6)] 1.76 s | new_clusters=39 | total_unique=11795 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_pos.gso (32/46) yc=5.00e18 (2/6)] 1.72 s | new_clusters=27 | total_unique=11822 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_pos.gso (32/46) yc=8.00e18 (3/6)] 1.75 s | new_clusters=34 | total_unique=11856 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_pos.gso (32/46) yc=11.00e18 (4/6)] 1.72 s | new_clusters=27 | total_unique=11883 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_pos.gso (32/46) yc=14.00e18 (5/6)] 1.70 s | new_clusters=23 | total_unique=11906 | best=0.98718917
+[hr_15_M58_P68_hi12_24_b18_pos.gso (32/46) yc=17.00e18 (6/6)] 1.66 s | new_clusters=38 | total_unique=11944 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_neg.gso (33/46) yc=2.00e18 (1/6)] 1.19 s | new_clusters=46 | total_unique=11990 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_neg.gso (33/46) yc=5.00e18 (2/6)] 1.16 s | new_clusters=33 | total_unique=12023 | best=0.98718917
+CLUSTER #12055 |h|=0.96833848 h=-0.96833848 y=9112915949245867008.000000 (x=9784918993301948598640520406, dy=-0.0000230)
+[hr_16_M58_P66_hi14_b18_neg.gso (33/46) yc=8.00e18 (3/6)] 1.57 s | new_clusters=47 | total_unique=12070 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_neg.gso (33/46) yc=11.00e18 (4/6)] 1.15 s | new_clusters=59 | total_unique=12129 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_neg.gso (33/46) yc=14.00e18 (5/6)] 1.15 s | new_clusters=42 | total_unique=12171 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_neg.gso (33/46) yc=17.00e18 (6/6)] 1.33 s | new_clusters=49 | total_unique=12220 | best=0.98718917
+CLUSTER #12239 |h|=0.96921317 h=+0.96921317 y=1572856518988788224.000000 (x=1688841827589311970522025097, dy=-0.0009180)
+[hr_16_M58_P66_hi14_b18_pos.gso (34/46) yc=2.00e18 (1/6)] 1.17 s | new_clusters=52 | total_unique=12272 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_pos.gso (34/46) yc=5.00e18 (2/6)] 1.13 s | new_clusters=40 | total_unique=12312 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_pos.gso (34/46) yc=8.00e18 (3/6)] 1.16 s | new_clusters=41 | total_unique=12353 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_pos.gso (34/46) yc=11.00e18 (4/6)] 1.16 s | new_clusters=44 | total_unique=12397 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_pos.gso (34/46) yc=14.00e18 (5/6)] 1.18 s | new_clusters=39 | total_unique=12436 | best=0.98718917
+[hr_16_M58_P66_hi14_b18_pos.gso (34/46) yc=17.00e18 (6/6)] 1.59 s | new_clusters=52 | total_unique=12488 | best=0.98718917
+CLUSTER #12512 |h|=0.97627054 h=-0.97627054 y=3067121423924296192.000000 (x=3293296552153950986529766182, dy=-0.0012930)
+[hr_17_M60_P67_hi23_25_b18_neg.gso (35/46) yc=2.00e18 (1/6)] 2.76 s | new_clusters=32 | total_unique=12520 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_neg.gso (35/46) yc=5.00e18 (2/6)] 2.78 s | new_clusters=34 | total_unique=12554 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_neg.gso (35/46) yc=8.00e18 (3/6)] 2.75 s | new_clusters=27 | total_unique=12581 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_neg.gso (35/46) yc=11.00e18 (4/6)] 2.81 s | new_clusters=21 | total_unique=12602 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_neg.gso (35/46) yc=14.00e18 (5/6)] 2.75 s | new_clusters=28 | total_unique=12630 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_neg.gso (35/46) yc=17.00e18 (6/6)] 2.85 s | new_clusters=43 | total_unique=12673 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_pos.gso (36/46) yc=2.00e18 (1/6)] 3.08 s | new_clusters=31 | total_unique=12704 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_pos.gso (36/46) yc=5.00e18 (2/6)] 3.02 s | new_clusters=30 | total_unique=12734 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_pos.gso (36/46) yc=8.00e18 (3/6)] 3.03 s | new_clusters=34 | total_unique=12768 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_pos.gso (36/46) yc=11.00e18 (4/6)] 2.97 s | new_clusters=29 | total_unique=12797 | best=0.98718917
+CLUSTER #12809 |h|=0.96504501 h=+0.96504501 y=13688693639391424512.000000 (x=14698122876537345564354965845, dy=+0.0016345)
+[hr_17_M60_P67_hi23_25_b18_pos.gso (36/46) yc=14.00e18 (5/6)] 2.97 s | new_clusters=26 | total_unique=12823 | best=0.98718917
+[hr_17_M60_P67_hi23_25_b18_pos.gso (36/46) yc=17.00e18 (6/6)] 2.94 s | new_clusters=54 | total_unique=12877 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_neg.gso (37/46) yc=2.00e18 (1/6)] 1.76 s | new_clusters=24 | total_unique=12901 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_neg.gso (37/46) yc=5.00e18 (2/6)] 1.75 s | new_clusters=18 | total_unique=12919 | best=0.98718917
+CLUSTER #12933 |h|=0.96381604 h=-0.96381604 y=9077694546072811520.000000 (x=9747100299615072983145745212, dy=-0.0005105)
+[hr_18_M59_P66_hi10_b18_neg.gso (37/46) yc=8.00e18 (3/6)] 1.87 s | new_clusters=21 | total_unique=12940 | best=0.98718917
+CLUSTER #12948 |h|=0.96004108 h=-0.96004108 y=11991242425427730432.000000 (x=12875498513904954690770953582, dy=-0.0003600)
+[hr_18_M59_P66_hi10_b18_neg.gso (37/46) yc=11.00e18 (4/6)] 1.85 s | new_clusters=16 | total_unique=12956 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_neg.gso (37/46) yc=14.00e18 (5/6)] 1.89 s | new_clusters=22 | total_unique=12978 | best=0.98718917
+CLUSTER #13005 |h|=0.96802142 h=-0.96802142 y=16400284300710658048.000000 (x=17609671179163625538530599319, dy=-0.0008775)
+[hr_18_M59_P66_hi10_b18_neg.gso (37/46) yc=17.00e18 (6/6)] 2.27 s | new_clusters=28 | total_unique=13006 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_pos.gso (38/46) yc=2.00e18 (1/6)] 2.06 s | new_clusters=32 | total_unique=13038 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_pos.gso (38/46) yc=5.00e18 (2/6)] 2.07 s | new_clusters=25 | total_unique=13063 | best=0.98718917
+CLUSTER #13081 |h|=0.96463341 h=+0.96463341 y=8403264449986999296.000000 (x=9022936498083397023023180157, dy=-0.0019120)
+[hr_18_M59_P66_hi10_b18_pos.gso (38/46) yc=8.00e18 (3/6)] 2.20 s | new_clusters=25 | total_unique=13088 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_pos.gso (38/46) yc=11.00e18 (4/6)] 2.02 s | new_clusters=22 | total_unique=13110 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_pos.gso (38/46) yc=14.00e18 (5/6)] 2.06 s | new_clusters=22 | total_unique=13132 | best=0.98718917
+[hr_18_M59_P66_hi10_b18_pos.gso (38/46) yc=17.00e18 (6/6)] 2.10 s | new_clusters=38 | total_unique=13170 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_neg.gso (39/46) yc=2.00e18 (1/6)] 1.76 s | new_clusters=43 | total_unique=13213 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_neg.gso (39/46) yc=5.00e18 (2/6)] 1.78 s | new_clusters=35 | total_unique=13248 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_neg.gso (39/46) yc=8.00e18 (3/6)] 1.79 s | new_clusters=50 | total_unique=13298 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_neg.gso (39/46) yc=11.00e18 (4/6)] 1.75 s | new_clusters=47 | total_unique=13345 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_neg.gso (39/46) yc=14.00e18 (5/6)] 1.76 s | new_clusters=42 | total_unique=13387 | best=0.98718917
+CLUSTER #13408 |h|=0.96173219 h=-0.96173219 y=16511332788848332800.000000 (x=17728908585369016638691410330, dy=-0.0018435)
+[hr_19_M58_P68_hi13_22_b18_neg.gso (39/46) yc=17.00e18 (6/6)] 1.90 s | new_clusters=47 | total_unique=13434 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_pos.gso (40/46) yc=2.00e18 (1/6)] 1.70 s | new_clusters=54 | total_unique=13488 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_pos.gso (40/46) yc=5.00e18 (2/6)] 1.58 s | new_clusters=41 | total_unique=13529 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_pos.gso (40/46) yc=8.00e18 (3/6)] 1.46 s | new_clusters=42 | total_unique=13571 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_pos.gso (40/46) yc=11.00e18 (4/6)] 1.41 s | new_clusters=32 | total_unique=13603 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_pos.gso (40/46) yc=14.00e18 (5/6)] 1.46 s | new_clusters=25 | total_unique=13628 | best=0.98718917
+[hr_19_M58_P68_hi13_22_b18_pos.gso (40/46) yc=17.00e18 (6/6)] 1.44 s | new_clusters=45 | total_unique=13673 | best=0.98718917
+CLUSTER #13693 |h|=0.97198432 h=-0.97198432 y=1878511290277353472.000000 (x=2017036139226999071424605224, dy=+0.0003310)
+[hr_20_M59_P68_hi16_17_b18_neg.gso (41/46) yc=2.00e18 (1/6)] 2.18 s | new_clusters=40 | total_unique=13713 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_neg.gso (41/46) yc=5.00e18 (2/6)] 2.22 s | new_clusters=40 | total_unique=13753 | best=0.98718917
+CLUSTER #13773 |h|=0.97293495 h=-0.97293495 y=8491773758265927680.000000 (x=9117972644195792117557745324, dy=+0.0011615)
+CLUSTER #13788 |h|=0.96299298 h=-0.96299298 y=8720424268292128768.000000 (x=9363484259889856193560474483, dy=+0.0007530)
+[hr_20_M59_P68_hi16_17_b18_neg.gso (41/46) yc=8.00e18 (3/6)] 2.60 s | new_clusters=36 | total_unique=13789 | best=0.98718917
+CLUSTER #13802 |h|=0.96304123 h=-0.96304123 y=10300051538662297600.000000 (x=11059596126417263010040785325, dy=+0.0000945)
+[hr_20_M59_P68_hi16_17_b18_neg.gso (41/46) yc=11.00e18 (4/6)] 2.32 s | new_clusters=39 | total_unique=13828 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_neg.gso (41/46) yc=14.00e18 (5/6)] 2.33 s | new_clusters=31 | total_unique=13859 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_neg.gso (41/46) yc=17.00e18 (6/6)] 2.28 s | new_clusters=35 | total_unique=13894 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_pos.gso (42/46) yc=2.00e18 (1/6)] 2.03 s | new_clusters=39 | total_unique=13933 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_pos.gso (42/46) yc=5.00e18 (2/6)] 2.05 s | new_clusters=25 | total_unique=13958 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_pos.gso (42/46) yc=8.00e18 (3/6)] 1.99 s | new_clusters=36 | total_unique=13994 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_pos.gso (42/46) yc=11.00e18 (4/6)] 1.93 s | new_clusters=22 | total_unique=14016 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_pos.gso (42/46) yc=14.00e18 (5/6)] 1.90 s | new_clusters=21 | total_unique=14037 | best=0.98718917
+[hr_20_M59_P68_hi16_17_b18_pos.gso (42/46) yc=17.00e18 (6/6)] 1.90 s | new_clusters=28 | total_unique=14065 | best=0.98718917
+[hr_21_M60_P68_hi19_b18_neg.gso (43/46) yc=2.00e18 (1/6)] 2.64 s | new_clusters=48 | total_unique=14113 | best=0.98718917
+[hr_21_M60_P68_hi19_b18_neg.gso (43/46) yc=5.00e18 (2/6)] 2.90 s | new_clusters=39 | total_unique=14152 | best=0.98718917
+[hr_21_M60_P68_hi19_b18_neg.gso (43/46) yc=8.00e18 (3/6)] 2.73 s | new_clusters=51 | total_unique=14203 | best=0.98718917
+CLUSTER #14207 |h|=0.99365548 h=-0.99365548 y=11702632930821509120.000000 (x=12565606428742753754034269184, dy=-0.0006440)
+[hr_21_M60_P68_hi19_b18_neg.gso (43/46) yc=11.00e18 (4/6)] 2.68 s | new_clusters=71 | total_unique=14274 | best=0.99365548
+[hr_21_M60_P68_hi19_b18_neg.gso (43/46) yc=14.00e18 (5/6)] 2.62 s | new_clusters=33 | total_unique=14307 | best=0.99365548
+CLUSTER #14363 |h|=0.97308725 h=-0.97308725 y=17826362390233094144.000000 (x=19140910868173881603954790680, dy=-0.0034105)
+[hr_21_M60_P68_hi19_b18_neg.gso (43/46) yc=17.00e18 (6/6)] 3.15 s | new_clusters=57 | total_unique=14364 | best=0.99365548
+[hr_21_M60_P68_hi19_b18_pos.gso (44/46) yc=2.00e18 (1/6)] 2.68 s | new_clusters=56 | total_unique=14420 | best=0.99365548
+[hr_21_M60_P68_hi19_b18_pos.gso (44/46) yc=5.00e18 (2/6)] 2.74 s | new_clusters=51 | total_unique=14471 | best=0.99365548
+CLUSTER #14488 |h|=0.97636393 h=+0.97636393 y=7928350674659879936.000000 (x=8513001714720929960154083855, dy=-0.0010790)
+[hr_21_M60_P68_hi19_b18_pos.gso (44/46) yc=8.00e18 (3/6)] 2.78 s | new_clusters=47 | total_unique=14518 | best=0.99365548
+[hr_21_M60_P68_hi19_b18_pos.gso (44/46) yc=11.00e18 (4/6)] 2.68 s | new_clusters=54 | total_unique=14572 | best=0.99365548
+[hr_21_M60_P68_hi19_b18_pos.gso (44/46) yc=14.00e18 (5/6)] 2.92 s | new_clusters=48 | total_unique=14620 | best=0.99365548
+[hr_21_M60_P68_hi19_b18_pos.gso (44/46) yc=17.00e18 (6/6)] 2.65 s | new_clusters=67 | total_unique=14687 | best=0.99365548
+CLUSTER #14706 |h|=0.97252227 h=-0.97252227 y=817322648906981376.000000 (x=877593511833893749402722337, dy=-0.0033255)
+[hr_23_M59_P68_hi22_b18_neg.gso (45/46) yc=2.00e18 (1/6)] 2.57 s | new_clusters=48 | total_unique=14735 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_neg.gso (45/46) yc=5.00e18 (2/6)] 2.61 s | new_clusters=34 | total_unique=14769 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_neg.gso (45/46) yc=8.00e18 (3/6)] 2.48 s | new_clusters=28 | total_unique=14797 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_neg.gso (45/46) yc=11.00e18 (4/6)] 2.50 s | new_clusters=28 | total_unique=14825 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_neg.gso (45/46) yc=14.00e18 (5/6)] 2.59 s | new_clusters=28 | total_unique=14853 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_neg.gso (45/46) yc=17.00e18 (6/6)] 2.55 s | new_clusters=30 | total_unique=14883 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_pos.gso (46/46) yc=2.00e18 (1/6)] 2.05 s | new_clusters=27 | total_unique=14910 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_pos.gso (46/46) yc=5.00e18 (2/6)] 2.01 s | new_clusters=33 | total_unique=14943 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_pos.gso (46/46) yc=8.00e18 (3/6)] 2.04 s | new_clusters=25 | total_unique=14968 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_pos.gso (46/46) yc=11.00e18 (4/6)] 2.03 s | new_clusters=30 | total_unique=14998 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_pos.gso (46/46) yc=14.00e18 (5/6)] 2.07 s | new_clusters=22 | total_unique=15020 | best=0.99365548
+[hr_23_M59_P68_hi22_b18_pos.gso (46/46) yc=17.00e18 (6/6)] 2.14 s | new_clusters=38 | total_unique=15058 | best=0.99365548
+ALL DONE in 678.29 s | nodes=193925961386 (0.29 Gnodes/s) | pruned_at_cut=160537721 | unique_clusters=15058 | best_abs=0.99365548
+CLUSTER #1 |h|=0.88745242 h=-0.88745242 y=3153719147885349376.000000 (x=3386280150234141049218135775, dy=-0.0013500)
+CLUSTER #5 |h|=0.89390864 h=-0.89390864 y=2630986414998271488.000000 (x=2825000152159464734629854509, dy=+0.0003000)
+CLUSTER #6 |h|=0.90341087 h=-0.90341087 y=915928557234707584.000000 (x=983470799698883360334908987, dy=+0.0034250)
+CLUSTER #7 |h|=0.92616853 h=-0.92616853 y=1375110250371919360.000000 (x=1476513388435441327513644023, dy=+0.0040950)
+CLUSTER #9 |h|=0.93912469 h=-0.93912469 y=740453829407384832.000000 (x=795056245375670173765651574, dy=+0.0012750)
+CLUSTER #37 |h|=0.96485638 h=-0.96485638 y=2551747540500292096.000000 (x=2739918058524297744680158771, dy=-0.0004040)
+CLUSTER #45 |h|=0.96406544 h=-0.96406544 y=1158462198567387392.000000 (x=1243889314124796777679021823, dy=+0.0006875)
+CLUSTER #46 |h|=0.96797706 h=-0.96797706 y=4733856227770563.000000 (x=5082939420560123476662022, dy=-0.0004400)
+[hr_07_M58_P68_hi21_b18_neg.gso (1/10) yc=2.00e18 (1/6)] 1.81 s | new_clusters=86 | total_unique=86 | best=0.96797706
+[hr_07_M58_P68_hi21_b18_neg.gso (1/10) yc=5.00e18 (2/6)] 1.67 s | new_clusters=78 | total_unique=164 | best=0.96797706
+[hr_07_M58_P68_hi21_b18_neg.gso (1/10) yc=8.00e18 (3/6)] 1.72 s | new_clusters=59 | total_unique=223 | best=0.96797706
+CLUSTER #251 |h|=0.96558202 h=-0.96558202 y=10314950460880015360.000000 (x=11075593722334947679822256693, dy=+0.0026650)
+CLUSTER #277 |h|=0.96870667 h=-0.96870667 y=10978098741534283776.000000 (x=11787643766787126529895398277, dy=-0.0000470)
+[hr_07_M58_P68_hi21_b18_neg.gso (1/10) yc=11.00e18 (4/6)] 2.10 s | new_clusters=54 | total_unique=277 | best=0.96870667
+[hr_07_M58_P68_hi21_b18_neg.gso (1/10) yc=14.00e18 (5/6)] 1.69 s | new_clusters=60 | total_unique=337 | best=0.96870667
+[hr_07_M58_P68_hi21_b18_neg.gso (1/10) yc=17.00e18 (6/6)] 1.84 s | new_clusters=89 | total_unique=426 | best=0.96870667
+[hr_07_M58_P68_hi21_b18_pos.gso (2/10) yc=2.00e18 (1/6)] 2.15 s | new_clusters=86 | total_unique=512 | best=0.96870667
+[hr_07_M58_P68_hi21_b18_pos.gso (2/10) yc=5.00e18 (2/6)] 1.83 s | new_clusters=67 | total_unique=579 | best=0.96870667
+[hr_07_M58_P68_hi21_b18_pos.gso (2/10) yc=8.00e18 (3/6)] 1.63 s | new_clusters=80 | total_unique=659 | best=0.96870667
+[hr_07_M58_P68_hi21_b18_pos.gso (2/10) yc=11.00e18 (4/6)] 1.69 s | new_clusters=58 | total_unique=717 | best=0.96870667
+CLUSTER #729 |h|=0.97984464 h=+0.97984464 y=15097708992887271424.000000 (x=16211041592243980960632820997, dy=-0.0016895)
+[hr_07_M58_P68_hi21_b18_pos.gso (2/10) yc=14.00e18 (5/6)] 1.62 s | new_clusters=54 | total_unique=771 | best=0.97984464
+[hr_07_M58_P68_hi21_b18_pos.gso (2/10) yc=17.00e18 (6/6)] 1.59 s | new_clusters=68 | total_unique=839 | best=0.97984464
+[hr_15_M58_P68_hi12_24_b18_neg.gso (3/10) yc=2.00e18 (1/6)] 1.54 s | new_clusters=53 | total_unique=892 | best=0.97984464
+CLUSTER #908 |h|=0.97448590 h=-0.97448590 y=5922821734825798656.000000 (x=6359581412778696973035088701, dy=-0.0042950)
+[hr_15_M58_P68_hi12_24_b18_neg.gso (3/10) yc=5.00e18 (2/6)] 1.54 s | new_clusters=66 | total_unique=958 | best=0.97984464
+[hr_15_M58_P68_hi12_24_b18_neg.gso (3/10) yc=8.00e18 (3/6)] 1.61 s | new_clusters=48 | total_unique=1006 | best=0.97984464
+[hr_15_M58_P68_hi12_24_b18_neg.gso (3/10) yc=11.00e18 (4/6)] 1.68 s | new_clusters=43 | total_unique=1049 | best=0.97984464
+CLUSTER #1091 |h|=0.96531090 h=-0.96531090 y=15528632561983260672.000000 (x=16673742251329700357615521544, dy=+0.0002755)
+[hr_15_M58_P68_hi12_24_b18_neg.gso (3/10) yc=14.00e18 (5/6)] 1.83 s | new_clusters=52 | total_unique=1101 | best=0.97984464
+CLUSTER #1106 |h|=0.96295492 h=-0.96295492 y=18245101627319076864.000000 (x=19590528700382953769466610394, dy=+0.0009290)
+CLUSTER #1162 |h|=0.97851013 h=-0.97851013 y=17121545096686462976.000000 (x=18384119061814379800387547128, dy=+0.0013565)
+[hr_15_M58_P68_hi12_24_b18_neg.gso (3/10) yc=17.00e18 (6/6)] 2.16 s | new_clusters=63 | total_unique=1164 | best=0.97984464
+CLUSTER #1186 |h|=0.97027371 h=+0.97027371 y=2265109926259257344.000000 (x=2432143263782120417560824710, dy=-0.0016330)
+[hr_15_M58_P68_hi12_24_b18_pos.gso (4/10) yc=2.00e18 (1/6)] 2.00 s | new_clusters=65 | total_unique=1229 | best=0.97984464
+[hr_15_M58_P68_hi12_24_b18_pos.gso (4/10) yc=5.00e18 (2/6)] 1.96 s | new_clusters=59 | total_unique=1288 | best=0.97984464
+CLUSTER #1342 |h|=0.96699043 h=+0.96699043 y=7146264750926202880.000000 (x=7673243348446406756149652800, dy=+0.0000795)
+[hr_15_M58_P68_hi12_24_b18_pos.gso (4/10) yc=8.00e18 (3/6)] 2.36 s | new_clusters=56 | total_unique=1344 | best=0.97984464
+CLUSTER #1385 |h|=0.97322777 h=+0.97322777 y=10216122357801984000.000000 (x=10969477854673482685062712802, dy=-0.0022865)
+[hr_15_M58_P68_hi12_24_b18_pos.gso (4/10) yc=11.00e18 (4/6)] 1.98 s | new_clusters=50 | total_unique=1394 | best=0.97984464
+[hr_15_M58_P68_hi12_24_b18_pos.gso (4/10) yc=14.00e18 (5/6)] 1.92 s | new_clusters=50 | total_unique=1444 | best=0.97984464
+CLUSTER #1453 |h|=0.96432766 h=+0.96432766 y=18363602846355120128.000000 (x=19717768415456939512736462209, dy=-0.0015195)
+[hr_15_M58_P68_hi12_24_b18_pos.gso (4/10) yc=17.00e18 (6/6)] 1.92 s | new_clusters=67 | total_unique=1511 | best=0.97984464
+CLUSTER #1519 |h|=0.96543294 h=-0.96543294 y=1759921313548796672.000000 (x=1889701121306360812952411807, dy=-0.0008580)
+[hr_16_M58_P66_hi14_b18_neg.gso (5/10) yc=2.00e18 (1/6)] 1.52 s | new_clusters=97 | total_unique=1608 | best=0.97984464
+[hr_16_M58_P66_hi14_b18_neg.gso (5/10) yc=5.00e18 (2/6)] 1.31 s | new_clusters=65 | total_unique=1673 | best=0.97984464
+CLUSTER #1730 |h|=0.96833848 h=-0.96833848 y=9112915949245867008.000000 (x=9784918993301948598640520406, dy=-0.0000230)
+[hr_16_M58_P66_hi14_b18_neg.gso (5/10) yc=8.00e18 (3/6)] 1.74 s | new_clusters=77 | total_unique=1750 | best=0.97984464
+CLUSTER #1761 |h|=0.96520393 h=-0.96520393 y=10652868636670318592.000000 (x=11438430600770780088494108278, dy=-0.0009270)
+CLUSTER #1799 |h|=0.97619386 h=-0.97619386 y=12152672693306533888.000000 (x=13048832944185949679546157734, dy=-0.0011155)
+[hr_16_M58_P66_hi14_b18_neg.gso (5/10) yc=11.00e18 (4/6)] 1.40 s | new_clusters=87 | total_unique=1837 | best=0.97984464
+[hr_16_M58_P66_hi14_b18_neg.gso (5/10) yc=14.00e18 (5/6)] 1.45 s | new_clusters=74 | total_unique=1911 | best=0.97984464
+[hr_16_M58_P66_hi14_b18_neg.gso (5/10) yc=17.00e18 (6/6)] 1.42 s | new_clusters=97 | total_unique=2008 | best=0.97984464
+CLUSTER #2041 |h|=0.96921317 h=+0.96921317 y=1572856518988788224.000000 (x=1688841827589311970522025097, dy=-0.0009180)
+[hr_16_M58_P66_hi14_b18_pos.gso (6/10) yc=2.00e18 (1/6)] 1.33 s | new_clusters=91 | total_unique=2099 | best=0.97984464
+CLUSTER #2122 |h|=0.98637787 h=+0.98637787 y=5758494592264052736.000000 (x=6183136486991739835432936475, dy=+0.0009710)
+[hr_16_M58_P66_hi14_b18_pos.gso (6/10) yc=5.00e18 (2/6)] 1.33 s | new_clusters=74 | total_unique=2173 | best=0.98637787
+CLUSTER #2248 |h|=0.97206057 h=+0.97206057 y=8307205047332336640.000000 (x=8919793499864629770565549956, dy=+0.0015070)
+[hr_16_M58_P66_hi14_b18_pos.gso (6/10) yc=8.00e18 (3/6)] 1.83 s | new_clusters=77 | total_unique=2250 | best=0.98637787
+[hr_16_M58_P66_hi14_b18_pos.gso (6/10) yc=11.00e18 (4/6)] 1.36 s | new_clusters=72 | total_unique=2322 | best=0.98637787
+[hr_16_M58_P66_hi14_b18_pos.gso (6/10) yc=14.00e18 (5/6)] 1.32 s | new_clusters=70 | total_unique=2392 | best=0.98637787
+[hr_16_M58_P66_hi14_b18_pos.gso (6/10) yc=17.00e18 (6/6)] 1.74 s | new_clusters=92 | total_unique=2484 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_neg.gso (7/10) yc=2.00e18 (1/6)] 2.03 s | new_clusters=82 | total_unique=2566 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_neg.gso (7/10) yc=5.00e18 (2/6)] 2.13 s | new_clusters=58 | total_unique=2624 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_neg.gso (7/10) yc=8.00e18 (3/6)] 2.05 s | new_clusters=83 | total_unique=2707 | best=0.98637787
+CLUSTER #2748 |h|=0.96039069 h=-0.96039069 y=10995086874523283456.000000 (x=11805884635689089994198963695, dy=+0.0015530)
+[hr_19_M58_P68_hi13_22_b18_neg.gso (7/10) yc=11.00e18 (4/6)] 2.04 s | new_clusters=93 | total_unique=2800 | best=0.98637787
+CLUSTER #2850 |h|=0.96564719 h=-0.96564719 y=15416970075443640320.000000 (x=16553845569360271423860891294, dy=+0.0032265)
+[hr_19_M58_P68_hi13_22_b18_neg.gso (7/10) yc=14.00e18 (5/6)] 2.05 s | new_clusters=75 | total_unique=2875 | best=0.98637787
+CLUSTER #2909 |h|=0.96173219 h=-0.96173219 y=16511332788848332800.000000 (x=17728908585369016638691410330, dy=-0.0018435)
+CLUSTER #2920 |h|=0.96801843 h=-0.96801843 y=16400284300710658048.000000 (x=17609671179163625538530220280, dy=-0.0005250)
+[hr_19_M58_P68_hi13_22_b18_neg.gso (7/10) yc=17.00e18 (6/6)] 2.24 s | new_clusters=93 | total_unique=2968 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_pos.gso (8/10) yc=2.00e18 (1/6)] 1.93 s | new_clusters=85 | total_unique=3053 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_pos.gso (8/10) yc=5.00e18 (2/6)] 1.73 s | new_clusters=75 | total_unique=3128 | best=0.98637787
+CLUSTER #3176 |h|=0.96359082 h=+0.96359082 y=7126585355912929280.000000 (x=7652112758949637400487800926, dy=+0.0018510)
+[hr_19_M58_P68_hi13_22_b18_pos.gso (8/10) yc=8.00e18 (3/6)] 1.82 s | new_clusters=65 | total_unique=3193 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_pos.gso (8/10) yc=11.00e18 (4/6)] 1.61 s | new_clusters=55 | total_unique=3248 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_pos.gso (8/10) yc=14.00e18 (5/6)] 1.62 s | new_clusters=46 | total_unique=3294 | best=0.98637787
+[hr_19_M58_P68_hi13_22_b18_pos.gso (8/10) yc=17.00e18 (6/6)] 1.69 s | new_clusters=86 | total_unique=3380 | best=0.98637787
+CLUSTER #3446 |h|=0.96102314 h=-0.96102314 y=154222634625982496.000000 (x=165595293005387987652571738, dy=-0.0001725)
+[hr_22_M58_P68_hi17_b18_neg.gso (9/10) yc=2.00e18 (1/6)] 1.67 s | new_clusters=103 | total_unique=3483 | best=0.98637787
+CLUSTER #3538 |h|=0.96129048 h=-0.96129048 y=6158622775374322688.000000 (x=6612770852158367474049939664, dy=-0.0010265)
+[hr_22_M58_P68_hi17_b18_neg.gso (9/10) yc=5.00e18 (2/6)] 1.65 s | new_clusters=86 | total_unique=3569 | best=0.98637787
+[hr_22_M58_P68_hi17_b18_neg.gso (9/10) yc=8.00e18 (3/6)] 1.63 s | new_clusters=81 | total_unique=3650 | best=0.98637787
+CLUSTER #3745 |h|=0.96004108 h=-0.96004108 y=11991242425427730432.000000 (x=12875498513904954690768983704, dy=+0.0014745)
+[hr_22_M58_P68_hi17_b18_neg.gso (9/10) yc=11.00e18 (4/6)] 2.19 s | new_clusters=99 | total_unique=3749 | best=0.98637787
+[hr_22_M58_P68_hi17_b18_neg.gso (9/10) yc=14.00e18 (5/6)] 1.75 s | new_clusters=83 | total_unique=3832 | best=0.98637787
+CLUSTER #3884 |h|=0.96303748 h=-0.96303748 y=18266248296458029056.000000 (x=19613234763475736289192882970, dy=-0.0001170)
+[hr_22_M58_P68_hi17_b18_neg.gso (9/10) yc=17.00e18 (6/6)] 1.76 s | new_clusters=95 | total_unique=3927 | best=0.98637787
+CLUSTER #4006 |h|=0.96650606 h=+0.96650606 y=2190449111615369984.000000 (x=2351976824485067006845783780, dy=+0.0005175)
+CLUSTER #4015 |h|=0.99570313 h=+0.99570313 y=3484971332733132288.000000 (x=3741959475396584484692770230, dy=-0.0001970)
+[hr_22_M58_P68_hi17_b18_pos.gso (10/10) yc=2.00e18 (1/6)] 1.88 s | new_clusters=107 | total_unique=4034 | best=0.99570313
+CLUSTER #4048 |h|=0.96646429 h=+0.96646429 y=5597059561551014912.000000 (x=6009796942656426894691267076, dy=+0.0017930)
+[hr_22_M58_P68_hi17_b18_pos.gso (10/10) yc=5.00e18 (2/6)] 1.61 s | new_clusters=86 | total_unique=4120 | best=0.99570313
+CLUSTER #4152 |h|=0.96790003 h=+0.96790003 y=9175543704587067392.000000 (x=9852165033555034806265163470, dy=-0.0007790)
+[hr_22_M58_P68_hi17_b18_pos.gso (10/10) yc=8.00e18 (3/6)] 1.60 s | new_clusters=89 | total_unique=4209 | best=0.99570313
+CLUSTER #4239 |h|=0.96276908 h=+0.96276908 y=11185594176726763520.000000 (x=12010440293842373195241227580, dy=-0.0010600)
+[hr_22_M58_P68_hi17_b18_pos.gso (10/10) yc=11.00e18 (4/6)] 1.64 s | new_clusters=81 | total_unique=4290 | best=0.99570313
+CLUSTER #4343 |h|=0.96653040 h=+0.96653040 y=13550825947555475456.000000 (x=14550088569634743727254926626, dy=-0.0009890)
+[hr_22_M58_P68_hi17_b18_pos.gso (10/10) yc=14.00e18 (5/6)] 1.91 s | new_clusters=88 | total_unique=4378 | best=0.99570313
+[hr_22_M58_P68_hi17_b18_pos.gso (10/10) yc=17.00e18 (6/6)] 1.93 s | new_clusters=100 | total_unique=4478 | best=0.99570313
+ALL DONE in 106.03 s | nodes=32806837966 (0.31 Gnodes/s) | pruned_at_cut=19371572 | unique_clusters=4478 | best_abs=0.99570313
+CLUSTER #1 |h|=0.93353994 h=-0.93353994 y=431715539691266304.000000 (x=463551031037244704129072754, dy=+0.0007050)
+CLUSTER #4 |h|=0.95109243 h=-0.95109243 y=1322523361282681088.000000 (x=1420048646226276900950159675, dy=+0.0013975)
+CLUSTER #9 |h|=0.96543294 h=-0.96543294 y=1759921313548796672.000000 (x=1889701121306360812953635337, dy=-0.0019975)
+[hr_18_M59_P66_hi10_b18_neg.gso (1/6) yc=2.00e18 (1/6)] 2.20 s | new_clusters=51 | total_unique=51 | best=0.96543294
+[hr_18_M59_P66_hi10_b18_neg.gso (1/6) yc=5.00e18 (2/6)] 1.91 s | new_clusters=57 | total_unique=108 | best=0.96543294
+CLUSTER #134 |h|=0.96381604 h=-0.96381604 y=9077694546072811520.000000 (x=9747100299615072983145745212, dy=-0.0005105)
+[hr_18_M59_P66_hi10_b18_neg.gso (1/6) yc=8.00e18 (3/6)] 1.96 s | new_clusters=45 | total_unique=153 | best=0.96543294
+CLUSTER #175 |h|=0.96004108 h=-0.96004108 y=11991242425427730432.000000 (x=12875498513904954690770953582, dy=-0.0003600)
+[hr_18_M59_P66_hi10_b18_neg.gso (1/6) yc=11.00e18 (4/6)] 2.04 s | new_clusters=49 | total_unique=202 | best=0.96543294
+CLUSTER #227 |h|=0.99589577 h=-0.99589577 y=13859539710197848064.000000 (x=14881567448228267707441520040, dy=-0.0020510)
+[hr_18_M59_P66_hi10_b18_neg.gso (1/6) yc=14.00e18 (5/6)] 2.11 s | new_clusters=47 | total_unique=249 | best=0.99589577
+CLUSTER #282 |h|=0.96182045 h=-0.96182045 y=16599421917283444736.000000 (x=17823493566809503178027775765, dy=-0.0020305)
+CLUSTER #304 |h|=0.96802142 h=-0.96802142 y=16400284300710658048.000000 (x=17609671179163625538530599319, dy=-0.0008775)
+[hr_18_M59_P66_hi10_b18_neg.gso (1/6) yc=17.00e18 (6/6)] 2.38 s | new_clusters=58 | total_unique=307 | best=0.99589577
+CLUSTER #350 |h|=0.96485640 h=-0.96485640 y=2551747540500292096.000000 (x=2739918058524297744677761959, dy=+0.0018280)
+[hr_14_M59_P68_hi11_13_b18_neg.gso (2/6) yc=2.00e18 (1/6)] 2.20 s | new_clusters=71 | total_unique=378 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_neg.gso (2/6) yc=5.00e18 (2/6)] 2.63 s | new_clusters=61 | total_unique=439 | best=0.99589577
+CLUSTER #443 |h|=0.96757810 h=-0.96757810 y=7122259925632642048.000000 (x=7647468363550896890266142133, dy=+0.0005640)
+CLUSTER #456 |h|=0.96833848 h=-0.96833848 y=9112915949245867008.000000 (x=9784918993301948598640898440, dy=-0.0003750)
+[hr_14_M59_P68_hi11_13_b18_neg.gso (2/6) yc=8.00e18 (3/6)] 2.29 s | new_clusters=51 | total_unique=490 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_neg.gso (2/6) yc=11.00e18 (4/6)] 2.20 s | new_clusters=71 | total_unique=561 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_neg.gso (2/6) yc=14.00e18 (5/6)] 2.20 s | new_clusters=54 | total_unique=615 | best=0.99589577
+CLUSTER #685 |h|=0.96811647 h=-0.96811647 y=18451986291252547584.000000 (x=19812669416792505791183613034, dy=-0.0009585)
+[hr_14_M59_P68_hi11_13_b18_neg.gso (2/6) yc=17.00e18 (6/6)] 2.29 s | new_clusters=81 | total_unique=696 | best=0.99589577
+CLUSTER #712 |h|=0.96123695 h=+0.96123695 y=1168857266781638144.000000 (x=1255050933629770846666777623, dy=-0.0007555)
+[hr_14_M59_P68_hi11_13_b18_pos.gso (3/6) yc=2.00e18 (1/6)] 1.93 s | new_clusters=53 | total_unique=749 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_pos.gso (3/6) yc=5.00e18 (2/6)] 2.00 s | new_clusters=67 | total_unique=816 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_pos.gso (3/6) yc=8.00e18 (3/6)] 2.04 s | new_clusters=55 | total_unique=871 | best=0.99589577
+CLUSTER #924 |h|=0.96247629 h=+0.96247629 y=12183331341393367040.000000 (x=13081752416904080687534303867, dy=+0.0007040)
+[hr_14_M59_P68_hi11_13_b18_pos.gso (3/6) yc=11.00e18 (4/6)] 2.22 s | new_clusters=62 | total_unique=933 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_pos.gso (3/6) yc=14.00e18 (5/6)] 2.06 s | new_clusters=62 | total_unique=995 | best=0.99589577
+[hr_14_M59_P68_hi11_13_b18_pos.gso (3/6) yc=17.00e18 (6/6)] 2.54 s | new_clusters=85 | total_unique=1080 | best=0.99589577
+CLUSTER #1118 |h|=0.96406544 h=-0.96406544 y=1158462198567387392.000000 (x=1243889314124796777679021823, dy=+0.0006875)
+CLUSTER #1119 |h|=0.96797706 h=-0.96797706 y=4733856227770563.000000 (x=5082939420560123476662022, dy=-0.0004400)
+[hr_07_M58_P68_hi21_b18_neg.gso (4/6) yc=2.00e18 (1/6)] 1.66 s | new_clusters=77 | total_unique=1157 | best=0.99589577
+[hr_07_M58_P68_hi21_b18_neg.gso (4/6) yc=5.00e18 (2/6)] 1.55 s | new_clusters=75 | total_unique=1232 | best=0.99589577
+[hr_07_M58_P68_hi21_b18_neg.gso (4/6) yc=8.00e18 (3/6)] 1.59 s | new_clusters=52 | total_unique=1284 | best=0.99589577
+CLUSTER #1311 |h|=0.96558202 h=-0.96558202 y=10314950460880015360.000000 (x=11075593722334947679822256693, dy=+0.0026650)
+CLUSTER #1340 |h|=0.96870667 h=-0.96870667 y=10978098741534283776.000000 (x=11787643766787126529895398277, dy=-0.0000470)
+[hr_07_M58_P68_hi21_b18_neg.gso (4/6) yc=11.00e18 (4/6)] 1.94 s | new_clusters=56 | total_unique=1340 | best=0.99589577
+[hr_07_M58_P68_hi21_b18_neg.gso (4/6) yc=14.00e18 (5/6)] 1.56 s | new_clusters=60 | total_unique=1400 | best=0.99589577
+[hr_07_M58_P68_hi21_b18_neg.gso (4/6) yc=17.00e18 (6/6)] 1.71 s | new_clusters=83 | total_unique=1483 | best=0.99589577
+[hr_12_M60_P67_hi22_25_b18_neg.gso (5/6) yc=2.00e18 (1/6)] 2.38 s | new_clusters=82 | total_unique=1565 | best=0.99589577
+CLUSTER #1626 |h|=0.96448438 h=-0.96448438 y=5002593992835682304.000000 (x=5371494398598828794698374729, dy=+0.0012860)
+[hr_12_M60_P67_hi22_25_b18_neg.gso (5/6) yc=5.00e18 (2/6)] 2.84 s | new_clusters=64 | total_unique=1629 | best=0.99589577
+[hr_12_M60_P67_hi22_25_b18_neg.gso (5/6) yc=8.00e18 (3/6)] 2.40 s | new_clusters=73 | total_unique=1702 | best=0.99589577
+[hr_12_M60_P67_hi22_25_b18_neg.gso (5/6) yc=11.00e18 (4/6)] 2.38 s | new_clusters=62 | total_unique=1764 | best=0.99589577
+[hr_12_M60_P67_hi22_25_b18_neg.gso (5/6) yc=14.00e18 (5/6)] 2.88 s | new_clusters=71 | total_unique=1835 | best=0.99589577
+[hr_12_M60_P67_hi22_25_b18_neg.gso (5/6) yc=17.00e18 (6/6)] 2.37 s | new_clusters=92 | total_unique=1927 | best=0.99589577
+[hr_01_pref_M60_b15_neg.gso (6/6) yc=2.00e18 (1/6)] 2.52 s | new_clusters=127 | total_unique=2054 | best=0.99589577
+CLUSTER #2122 |h|=0.97049248 h=-0.97049248 y=4551662716799440384.000000 (x=4887310627769026638071040772, dy=+0.0007820)
+[hr_01_pref_M60_b15_neg.gso (6/6) yc=5.00e18 (2/6)] 2.69 s | new_clusters=85 | total_unique=2139 | best=0.99589577
+CLUSTER #2221 |h|=0.96031266 h=-0.96031266 y=8343302988822795264.000000 (x=8958553369403240233388833992, dy=+0.0004535)
+CLUSTER #2257 |h|=0.96240960 h=-0.96240960 y=8721610370922646528.000000 (x=9364757827891798685278546353, dy=+0.0009455)
+[hr_01_pref_M60_b15_neg.gso (6/6) yc=8.00e18 (3/6)] 3.22 s | new_clusters=118 | total_unique=2257 | best=0.99589577
+CLUSTER #2342 |h|=0.96526835 h=-0.96526835 y=11836211697137399808.000000 (x=12709035536934447374864704280, dy=+0.0010640)
+[hr_01_pref_M60_b15_neg.gso (6/6) yc=11.00e18 (4/6)] 2.79 s | new_clusters=111 | total_unique=2368 | best=0.99589577
+[hr_01_pref_M60_b15_neg.gso (6/6) yc=14.00e18 (5/6)] 2.74 s | new_clusters=110 | total_unique=2478 | best=0.99589577
+[hr_01_pref_M60_b15_neg.gso (6/6) yc=17.00e18 (6/6)] 2.82 s | new_clusters=142 | total_unique=2620 | best=0.99589577
+ALL DONE in 81.52 s | nodes=25841495863 (0.32 Gnodes/s) | pruned_at_cut=31363883 | unique_clusters=2620 | best_abs=0.99589577
