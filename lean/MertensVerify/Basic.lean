@@ -1,7 +1,8 @@
 /-
   What this file proves, and what it does not.
 
-  Proved, from no axioms:
+  Proved (the algebraic identities by `grind`, from the standard axioms; the numerical
+  facts by `native_decide`, which additionally trusts Lean's compiler):
   * the exponent cancellation in the Gaussian weight of `M₁` (Lemma 3.1 of the paper);
   * the completion-of-square identity behind the upper tail of `|M₂ − M₁|`;
   * the matching identity for the lower-tail endpoint, and that this endpoint is

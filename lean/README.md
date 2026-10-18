@@ -29,7 +29,7 @@ All the objects are genuine Mathlib objects:
 - `M₂` is the Lebesgue integral of THEOREM.md §3, in the variable w = log x;
 - `Case1 u` says: some ρ with `riemannZeta ρ = 0` and Im ρ > 0 has Re ρ > ½ + (5 log Im ρ + 1)/u.
 
-`#print axioms` reports only `propext`, `Classical.choice` and `Quot.sound`. There is no `sorry` and no `native_decide`.
+`#print axioms` reports only `propext`, `Classical.choice` and `Quot.sound` for the main theorem (and for `lemmaE`, `lemmaF`). Its dependency closure contains no `sorry` and no `native_decide`. These standard axioms do not discharge the four hypotheses below, which remain inputs.
 
 ## What is proved in Lean, and what is assumed
 
@@ -43,7 +43,7 @@ All the objects are genuine Mathlib objects:
 | `hC`: Pintz 1987 Thm A + Cor. A with Y = eᵘ, ε = 1 | **hypothesis** (cited) |
 | `hcontour`: residue theorem on the Saouter–te Riele contour with the J₁…J₆ bounds (Lemma G; Pintz Lemmas 4, 5, 7; Table 1 on [T₀, T₁]; Platt–Trudgian). Here K = K₂(u+k, T₀, k) and J = Σ\|Jᵢ\|/π. | **hypothesis** (cited + derived on paper) |
 | `hK`: \|K₂\| ≥ 1.0003052504 − 2.3·10⁻¹¹ | **hypothesis** (Arb certificate `k2_certificate.json`) |
-| `hJ`: Σ\|Jᵢ\|/π ≤ 2.40·10⁻¹¹ (certified value 2.3907·10⁻¹¹) | **hypothesis** (Arb, `error_bounds.py`) |
+| `hJ`: Σ\|Jᵢ\|/π ≤ 2.40·10⁻¹¹ (computed value ≈ 2.39071·10⁻¹¹; the hypothesis uses the safe bound 2.40·10⁻¹¹) | **hypothesis** (Arb, `error_bounds.py`) |
 
 So Lean certifies that the paper's conclusion follows from these four inputs. It does not certify the inputs.
 

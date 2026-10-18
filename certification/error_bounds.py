@@ -14,6 +14,8 @@ of size exp(-10^17) and smaller, stay representable.
 import flint
 from flint import arb
 
+from certio import require
+
 flint.ctx.dps = 60
 
 C0 = arb(1).tan()                                   # c0 = tan(1) from Pintz Lemma I
@@ -46,7 +48,7 @@ def log_J3(u, k, T0, T1, M=None):
     # |1/s| <= 1, StR Table 1: |1/zeta(s)| <= u t^11 e^M.  int_T0^inf t^11 e^{-k t^2} dt = Gamma(6, k T0^2) / (2 k^6).
     # M=None: StR Table 1 (valid up to T_MAX_TABLE1). Otherwise M must come from verify_table1.py on [T0, T1].
     if M is None:
-        assert T1 <= T_MAX_TABLE1
+        require(T1 <= T_MAX_TABLE1, "StR Table 1 is valid only up to 10379424.827854489")
         M = M_STR
     g = (k * T0 * T0).gamma_upper(arb(6))
     return u.log() + M + 2 + g.log() - arb(2).log() - 6 * k.log()
@@ -55,7 +57,7 @@ def log_J3(u, k, T0, T1, M=None):
 def log_J4(u, k, T1):
     # L4: s = sigma + i T1, 1/2 + 1/u <= sigma <= 1/2 + (5 log T1 + 3)/u. Length <= 1, |1/s| <= 1,
     # |exp(...)| <= exp(-k T1^2 + 1 + 5 log T1 + 3), Lemma J with v = u.
-    assert (5 * T1.log() + 3) / u < arb("0.5")
+    require((5 * T1.log() + 3) / u < arb("0.5"), "hypothesis (5 log T1 + 3)/u < 1/2 fails")
     return -k * T1 * T1 + 5 * T1.log() + 4 + C0 * T1.log() * u.log() + 11 * T1.log() + 14
 
 
@@ -64,8 +66,8 @@ def log_J5(u, k, T1):
     # |exp(...)| <= exp(-k t^2 + 1 + 5 log t + 3), Lemma J with v = u  =>  integrand <= 2 e^18 exp(-k t^2 + A log t),
     # A = c0 log u + 16.  If k t^2 / 2 >= A log t on [T1, inf) the integrand is <= 2 e^18 exp(-k t^2 / 2).
     A = C0 * u.log() + 16
-    assert T1 >= (A / k).sqrt(), "f(t) = k t^2/2 - A log t must be increasing on [T1, inf)"
-    assert k / 2 * T1 * T1 >= A * T1.log(), "f(T1) >= 0"
+    require(T1 >= (A / k).sqrt(), "f(t) = k t^2/2 - A log t must be increasing on [T1, inf)")
+    require(k / 2 * T1 * T1 >= A * T1.log(), "f(T1) >= 0 fails")
     return arb(2).log() + 18 - k * T1 * T1 / 2 - (k * T1).log()
 
 
@@ -82,7 +84,20 @@ def log_lemmaF(u, k):
     return arb(2).log() - u / 2 + 2 * (k * u).sqrt()
 
 
+def check_hypotheses(u, k, T0, T1, delta):
+    """The finite hypotheses of the criterion (paper Theorem 3.7), checked in ball arithmetic."""
+    require(u > 16, "u > 16 fails")
+    require(k > 0 and k < arb("0.25"), "0 < k < 1/4 fails")
+    require(T0 >= 4 and T0 < T1, "4 <= T0 < T1 fails")
+    require(T1 + C0 <= arb("3e12"), "T1 + c0 <= 3e12 (Platt-Trudgian range) fails")
+    require(delta > 0 and delta <= 1, "0 < delta <= 1 fails")
+    require(u >= k, "u >= k (Gaussian-tail lemma) fails")
+
+
 def total_error(u, k, T0, T1, delta, verbose=True, M=None):
+    """Upper bound (an arb) for E = (B1 + ... + B6)/pi + 2 exp(-u/2 + 2 sqrt(ku)). M must be an upper
+    bound for the 1/zeta constant on [T0, T1] (or None for StR's 23.05, valid up to 10379424.83)."""
+    check_hypotheses(u, k, T0, T1, delta)
     parts = {
         "J1": log_J1(u, k, T0),
         "J2": log_J2(u, k, T0, delta),
