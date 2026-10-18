@@ -13,7 +13,7 @@ $$K_2(v,T,k) := 2\sum_{0<\gamma<T} e^{-k\gamma^2}\,\frac{\cos(\gamma v - \arg(\r
 
 $$|K_2(u+k,\,T_0,\,k)| \;>\; 1 + E(u),$$
 
-then 𝔵 < exp(u + 2√(ku)). At u = v − k with v as below, E(u) ≤ 2.4·10⁻¹¹.
+then 𝔵 < exp(u + 2√(ku)). At u = v − k with v as below, E(u) ≤ 2.391·10⁻¹¹.
 
 A variant with T₁ = 10⁷ that uses StR's published Table 1 constant (23.05) instead of the recomputed one (22.767) gives E ≤ 3.2·10⁻¹¹. Both variants work.
 
@@ -100,7 +100,7 @@ Next, note that e^{k(s²−¼)+u(s−½)} = e^{k(s−½)² + (u+k)(s−½)}. So 
 - log J₆ ≤ −10^(9·10¹⁷)
 - Lemma F′ term ≤ e^(−1.7·10¹⁸)
 
-Total: **E ≤ 2.39·10⁻¹¹**. J₂ dominates; J₄ and J₅ need T₁ ≥ 4.2·10⁶.
+Total: **E ≤ 2.391·10⁻¹¹** (certified: 2.3907·10⁻¹¹). J₃ dominates; J₄ and J₅ need T₁ ≥ 4.2·10⁶.
 
 **Proof of the Theorem.** Case 1 gives 𝔵 < eᵘ. In Case 2:
 
@@ -127,7 +127,7 @@ From `certification/k2_certificate.json`, produced by `certification/certify_K2.
 | K₂ tail, 600,000 < n ≤ 2,325,572 | \|·\| ≤ 9.43·10⁻¹² (ball); Σ 2e^{−kγ²}/\|ρζ'(ρ)\| ≤ 7.39·10⁻¹² |
 | **K₂(v, T₀, k)** | **[1.0003052504 ± 2.30·10⁻¹¹], lower bound 1.00030525037707** |
 | M (`certification/table1_certificate.json`, 6,185,380 intervals, 3,000 s with 16 workers) | ≤ 22.767 |
-| E(u) (T₁ = 4.3·10⁶, M = 22.767) | ≤ 2.39·10⁻¹¹ |
+| E(u) (T₁ = 4.3·10⁶, M = 22.767) | ≤ 2.391·10⁻¹¹ |
 | E(u), StR variant (T₁ = 10⁷, M = 23.05) | ≤ 3.18·10⁻¹¹ |
 | min \|ζ'(ρ)\| over all 2,325,572 zeros (diagnostic only) | 0.109 |
 

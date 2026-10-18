@@ -1,0 +1,20 @@
+name: Lean verification
+
+on:
+  push:
+    paths: ["lean/**", ".github/workflows/lean.yml"]
+  pull_request:
+    paths: ["lean/**", ".github/workflows/lean.yml"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: leanprover/lean-action@v1
+        with:
+          lake-package-directory: lean
+      - name: Print axioms of the main theorem
+        working-directory: lean
+        run: lake env lean AxiomCheck.lean
