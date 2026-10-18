@@ -1,11 +1,31 @@
 {
+  "schema": 2,
+  "params": {
+    "T0": "1300000",
+    "T1": "4300000",
+    "BATCH": 2000,
+    "DPS": 15,
+    "PAD": 20
+  },
+  "versions": {
+    "python": "3.11.17",
+    "python_flint": "0.9.0",
+    "flint": "3.6.0"
+  },
+  "code_sha256": {
+    "verify_table1.py": "abe472e09e76eb2a252c58b5ffd99bf4ff1dcd90c1ee8bedb0db579b79a0f478",
+    "certio.py": "e71dd0a7b3356ee39f0261f27dd4069c10e64a770b582f57c28e4041304536b6"
+  },
   "T0": "1300000",
   "T1": "4300000",
   "intervals": 6185380,
-  "min_N": "-8.76706559692",
+  "N(T0)": 2325572,
+  "N(T1)": 8510950,
+  "min_N_lower": "[-8.767065596923023562681010 +/- 6.57e-26]",
   "at_nu": 5042995,
-  "M = 14 - min_N": "22.76706560",
+  "M_ball": "[22.76706559692302356268101 +/- 6.57e-26]",
+  "M_upper_display": "22.7670655969 (display only)",
   "StR_Table1_M": "23.05",
-  "elapsed_s_this_run": 3000.3,
-  "note": "elapsed time of the original full computation (24 workers for K2, 16 for Table 1) on 2026-10-15"
+  "chunk_manifest_sha256": "d33508b904a6e04b159d952025a6f306e224bb0c46de51a10587ada89a5bcb0d",
+  "elapsed_s_this_run": 1453.4
 }

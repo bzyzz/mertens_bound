@@ -1,0 +1,19 @@
+{
+  "schema": 2,
+  "params": {
+    "cells": 8192,
+    "prec_bits": 64,
+    "threshold": "0.4556"
+  },
+  "versions": {
+    "python": "3.11.17",
+    "python_flint": "0.9.0",
+    "flint": "3.6.0"
+  },
+  "code_sha256": {
+    "verify_lemma7.py": "d2934b9bc0c1f74c9afce5c7efd2deea9af38e51282bf3c3a7107363190bb874"
+  },
+  "min_abs_zeta_lower": "[0.45560319023206830025 +/- 2.81e-21]",
+  "threshold": "0.4556",
+  "passed": true
+}
