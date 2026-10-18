@@ -14,10 +14,10 @@ about Mathlib objects (`riemannZeta`, the Lebesgue integral `M₂`, real numbers
   Platt–Trudgian): if no zero is that far right, then `|M₂(u) - K| ≤ J`, where `K = K₂(u+k, T₀, k)`
   and `J = Σ |Jᵢ| / π`.
 * `hK` **[certified with Arb]** `certification/k2_certificate.json`: `|K| ≥ 1.0003052504 - 2.3·10⁻¹¹`.
-* `hJ` **[certified with Arb]** `certification/error_bounds.py`: `J ≤ 2.40·10⁻¹¹` (certified: `≤ 2.3907·10⁻¹¹`).
+* `hJ` **[certified with Arb]** `certification/error_bounds.py`: `J ≤ 2.40·10⁻¹¹` (computed value ≈ 2.39071·10⁻¹¹; 2.40·10⁻¹¹ is the bound used).
 
 Proved here: Lemma E, a tail bound in place of Lemma F′, the case split, and all arithmetic (kernel
-checked with `norm_num`; no `native_decide`). The window is `|log x - u| ≤ 2s` with the rational
+checked with `norm_num`). The main theorem's dependency closure contains no `native_decide`; the separate `Basic.lean` does use it. The window is `|log x - u| ≤ 2s` with the rational
 `s > √(ku)` of `Basic.lean`, so the conclusion is the same as THEOREM.md's.
 -/
 

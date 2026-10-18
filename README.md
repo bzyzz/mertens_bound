@@ -36,7 +36,7 @@ This work keeps the proof structure and changes the parameters:
 1. **Smaller Gaussian width.** With k = 1.5·10⁻¹⁰, high zeros are damped less, and K₂ at Peak2 rises above 1.
 2. **Error terms re-derived for the new k.** The error integrals J₁…J₆ are re-derived for general (k, T₀, T₁). They are small enough only once T₀ ≳ 1.27·10⁶. We take T₀ = 1.3·10⁶ and T₁ = 4.3·10⁶.
 3. **Every zero below T₀ is included.** K₂ is summed over all 2,325,572 zeros below T₀, each computed from scratch with certified isolation in Arb. The zero count is the exact N(T₀).
-4. **The bound on 1/ζ is recomputed.** The error term J₃ needs an upper bound for 1/ζ on the line Re s = ½ + 1/u. Saouter and te Riele computed one from their own database of zeros, which is not published. We recompute it on the range we need from 6.2 million certified zeros. The result agrees with theirs and is slightly sharper (constant 22.767 against their 23.05).
+4. **The bound on 1/ζ is recomputed.** The error term J₃ needs an upper bound for 1/ζ on the line Re s = ½ + 1/u. Saouter and te Riele computed one from their own database of zeros, which is not published. We recompute it on the range we need from 6.2 million certified zeros. The result is consistent with theirs at the same extremal zero and slightly sharper (constant ≤ 22.7671 against their 23.05).
 
 The full statement, proof and certified numbers are in **[`THEOREM.md`](THEOREM.md)**.
 
@@ -70,12 +70,29 @@ make certify WORKERS=24
 
 | Step | Script | What it does | Time |
 |---|---|---|---|
-| `lemma7` | `verify_lemma7.py` | certifies \|ζ(¼+it)\| ≥ 0.4556 for \|t\| ≤ 4 | seconds |
+| `lemma7` | `verify_lemma7.py` | certifies \|ζ(¼+it)\| ≥ 0.4556 for \|t\| ≤ 4 → `lemma7_certificate.json` | seconds |
 | `k2` | `certify_K2.py` | sums K₂ over all zeros below T₀ → `k2_certificate.json` | ~45 min on 24 cores |
 | `table1` | `verify_table1.py` | recomputes the bound on 1/ζ over [T₀, T₁] → `table1_certificate.json` | ~50 min on 16 cores |
-| `check` | `check_theorem.py` | combines both certificates with the error bounds in `error_bounds.py` and prints the conclusion | seconds |
+| `check` | `check_theorem.py` | combines the three certificates with the error bounds in `error_bounds.py` and prints the conclusion | seconds |
 
-The two long steps cache their work per batch, so they can be interrupted and resumed. `make clean-cache` forces a full recomputation. The certificate files from our run are committed, so `make check` reproduces the final verdict in seconds.
+The two long steps cache their work per batch, so they can be interrupted and resumed. `make clean-cache` forces a full recomputation, and `CERT_CACHE=<dir>` puts the caches in a separate (for example empty) directory. `make check` runs only after all three generators, also under `make -j`. The certificate files from our run are committed, so `make check-only` reproduces the final verdict in seconds.
+
+How the certificates are made safe to reuse:
+- **Bounds:** every certified bound is stored as an enclosing Arb ball (schema 2). Certificates from the initial release (schema 1) are read with their radius-free decimals widened outward by one unit in the last place.
+- **Caches:** they are keyed by all parameters, the code and the FLINT/python-flint versions, and every cached payload is checked against its key when read.
+- **Failures:** every failed check exits with a nonzero status, also under `python -O`.
+- **Tests:** `python certification/test_certio.py` exercises these failure modes.
+
+### Certifying a new candidate point
+
+Neither the zeros nor the bound on 1/ζ depends on the evaluation point, so a new point is cheap to certify once the zeros are cached:
+
+```bash
+make zero-cache WORKERS=16                     # once: certified zeros and ζ'(ρ) below T₀ (~50 min, 330 MB)
+cd certification
+python certify_K2.py 16 --v <point> --out k2_certificate_<name>.json   # ~3 s from the cache
+python check_theorem.py k2_certificate_<name>.json
+```
 
 ## Repository layout
 

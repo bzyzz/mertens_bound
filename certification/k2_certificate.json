@@ -1,15 +1,34 @@
 {
+  "schema": 2,
+  "params": {
+    "k": "1.5e-10",
+    "v": "3484971332733132396.5383341489440461",
+    "T0": "1300000",
+    "N_HI": 600000,
+    "HI_DPS": 45,
+    "LO_DPS": 20,
+    "BATCH": 250
+  },
+  "versions": {
+    "python": "3.11.17",
+    "python_flint": "0.9.0",
+    "flint": "3.6.0"
+  },
+  "code_sha256": {
+    "certify_K2.py": "0545f7a9d6b48d0b98980cf4de3a18da4a52dd54e815394bec20124f74e781ff",
+    "certio.py": "e71dd0a7b3356ee39f0261f27dd4069c10e64a770b582f57c28e4041304536b6"
+  },
   "k": "1.5e-10",
   "v": "3484971332733132396.5383341489440461",
   "T0": "1300000",
   "N_T0": 2325572,
-  "delta_lower": "[0.1828652489 +/- 1.81e-12]",
+  "delta_lower": "[0.182865248898197 +/- 1.77e-16]",
   "K2_main_(n<=600000)": "[1.000305250386499012059 +/- 3.21e-22]",
   "K2_tail_ball": "[+/- 9.43e-12]",
-  "K2_tail_abs_bound": "7.385578705e-12",
+  "K2_tail_abs_bound": "[7.38557870e-12 +/- 5.22e-21]",
   "K2": "[1.0003052504 +/- 2.30e-11]",
-  "K2_lower": "1.0003052503770741430",
-  "min_|zeta'(rho)|": 0.10901933617754868,
-  "elapsed_s_this_run": 2700.7,
-  "note": "elapsed time of the original full computation (24 workers for K2, 16 for Table 1) on 2026-10-15"
+  "K2_lower_ball": "[1.000305250377074143011122 +/- 7.20e-26]",
+  "min_|zeta'(rho)|_diagnostic": 0.10901933617754868,
+  "chunk_manifest_sha256": "130bb1fc7740ef2a32b63f0b3106939c67670e8e18eae42ad4bce1ab58baa231",
+  "elapsed_s_this_run": 1820.5
 }
