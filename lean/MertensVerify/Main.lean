@@ -12,7 +12,8 @@ about Mathlib objects (`riemannZeta`, the Lebesgue integral `M₂`, real numbers
 * `hcontour` **[cited + derived]** the residue theorem on the Saouter–te Riele contour (THEOREM.md §3,
   Lemma G, the contour `L₁…L₆`, Pintz Lemmas 4–5, Pintz Lemma 7, Table 1 on `[T₀, T₁]`,
   Platt–Trudgian): if no zero is that far right, then `|M₂(u) - K| ≤ J`, where `K = K₂(u+k, T₀, k)`
-  and `J = Σ |Jᵢ| / π`.
+  and `J = (B₁ + ⋯ + B₆) / π`, the explicit bounds of the paper's Lemma 3.5 (so that
+  `|M₂ - K| ≤ Σ Jᵢ / π ≤ Σ Bᵢ / π = J` in that case).
 * `hK` **[certified with Arb]** `certification/k2_certificate.json`: `|K| ≥ 1.0003052504 - 2.3·10⁻¹¹`.
 * `hJ` **[certified with Arb]** `certification/error_bounds.py`: `J ≤ 2.40·10⁻¹¹` (computed value ≈ 2.39071·10⁻¹¹; 2.40·10⁻¹¹ is the bound used).
 
@@ -39,7 +40,7 @@ noncomputable def s₀ : ℝ := 1143181634639 / 50000000
 noncomputable def D₀ : ℝ := 2 * s₀
 /-- Lower end of the certified enclosure of `K₂`. -/
 noncomputable def K2Lower : ℝ := 10003052504 / 10000000000 - 23 / 1000000000000
-/-- Certified upper bound for `Σ |Jᵢ| / π`. -/
+/-- Certified upper bound for `J = Σ Bᵢ / π`. -/
 noncomputable def JUpper : ℝ := 24 / 1000000000000
 
 /-- Case 1 of the dichotomy: a zero of `ζ` lies to the right of `1/2 + (5 log γ + 1)/u`. -/

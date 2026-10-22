@@ -41,11 +41,11 @@ All the objects are genuine Mathlib objects:
 | **Tail bound**: \|M₂ − M₁\| ≤ 2 exp(u/2 + 3k/4 − 3(D−2k)²/16k) (`LemmaF.lean`). This is weaker than THEOREM.md's Lemma F′ but enough here: it is ≤ 10⁻¹⁶. | proved |
 | Case analysis, window arithmetic, all numerical inequalities (`Main.lean`, kernel-checked `norm_num`) | proved |
 | `hC`: Pintz 1987 Thm A + Cor. A with Y = eᵘ, ε = 1 | **hypothesis** (cited) |
-| `hcontour`: residue theorem on the Saouter–te Riele contour with the J₁…J₆ bounds (Lemma G; Pintz Lemmas 4, 5, 7; Table 1 on [T₀, T₁]; Platt–Trudgian). Here K = K₂(u+k, T₀, k) and J = Σ\|Jᵢ\|/π. | **hypothesis** (cited + derived on paper) |
+| `hcontour`: residue theorem on the Saouter–te Riele contour with the bounds Jᵢ ≤ Bᵢ (Lemma G; Pintz Lemmas 4, 5, 7; Table 1 on [T₀, T₁]; Platt–Trudgian). Here K = K₂(u+k, T₀, k) and J = (B₁+⋯+B₆)/π, the explicit bounds of the paper's Lemma 3.5. | **hypothesis** (cited + derived on paper) |
 | `hK`: \|K₂\| ≥ 1.0003052504 − 2.3·10⁻¹¹ | **hypothesis** (Arb certificate `k2_certificate.json`) |
-| `hJ`: Σ\|Jᵢ\|/π ≤ 2.40·10⁻¹¹ (computed value ≈ 2.39071·10⁻¹¹; the hypothesis uses the safe bound 2.40·10⁻¹¹) | **hypothesis** (Arb, `error_bounds.py`) |
+| `hJ`: J = ΣBᵢ/π ≤ 2.40·10⁻¹¹ (computed value ≈ 2.39071·10⁻¹¹; the hypothesis uses the safe bound 2.40·10⁻¹¹) | **hypothesis** (Arb, `error_bounds.py`) |
 
-So Lean certifies that the paper's conclusion follows from these four inputs. It does not certify the inputs.
+So Lean certifies that the paper's conclusion follows from these four inputs. It does not certify the inputs. Also not formalized: the identification of K and J above, and of Lean's `M₂` (written in w = log x) and `Case1` with the paper's M₂ and ¬Q(u).
 
 Formalizing them would need, in Lean: Perron/Mellin inversion for 1/(sζ(s)), contour integration with residues along the StR contour, Pintz's bounds on 1/ζ, and a verified evaluation of ζ′ at 2.3 million zeros. That is far beyond current Mathlib.
 
